@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-10 00:50+0000\n"
-"PO-Revision-Date: 2013-11-10 00:19+0000\n"
+"PO-Revision-Date: 2013-11-12 03:13+0000\n"
 "Last-Translator: Ben <blue0fish@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
-"X-POOTLE-MTIME: 1384042769.0\n"
+"X-POOTLE-MTIME: 1384226028.0\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
@@ -65,11 +65,11 @@ msgstr ""
 
 #: MiscResources.resx$UnknownDriverError$Message
 msgid "An error occurred with the scanning driver"
-msgstr "Došlo k chybě s ovladačem skeneru."
+msgstr "Došlo k chybě s ovladačem skeneru"
 
 #: MiscResources.resx$ConfirmClearItems$Message
 msgid "Are you sure you want to clear {0} item(s)?"
-msgstr ""
+msgstr "Opravdu si přejete smazat položku {0}?"
 
 #: MiscResources.resx$ConfirmDeleteSingleProfile$Message
 msgid "Are you sure you want to delete the profile {0}?"
@@ -156,7 +156,7 @@ msgstr "Zařízení"
 
 #: FEditScanSettings.resx$label8.Text$Message
 msgid "Display name"
-msgstr "Zobrazované jméno:"
+msgstr "Zobrazované jméno"
 
 #: FChooseProfile.resx$btnDone.Text$Message
 msgid "Done"
@@ -401,7 +401,7 @@ msgstr "Čekání na dokončení TWAIN"
 
 #: MiscResources.resx$DontHavePermission$Message
 msgid "You don't have permission to save files at this location"
-msgstr "Nemáte oprávnění zapisovat do tohoto umístění."
+msgstr "Nemáte oprávnění zapisovat do tohoto umístění"
 
 #: TiffViewerCtl.resx$tsZoom.ToolTipText$Message
 msgid "Zoom"
