@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-10 00:50+0000\n"
-"PO-Revision-Date: 2013-11-10 00:30+0000\n"
+"PO-Revision-Date: 2013-11-23 23:57+0000\n"
 "Last-Translator: Ben <blue0fish@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
-"X-POOTLE-MTIME: 1384043406.0\n"
+"X-POOTLE-MTIME: 1385251053.0\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
@@ -40,15 +40,15 @@ msgstr "600 т/д"
 
 #: SettingsResources.resx$PageSize_A3$Message
 msgid "A3 (297x420 mm)"
-msgstr "A3 (297 x 420 мм)"
+msgstr "A3 (297x420 мм)"
 
 #: SettingsResources.resx$PageSize_A4$Message
 msgid "A4 (210x297 mm)"
-msgstr "A4 (210 x 297 мм)"
+msgstr "A4 (210x297 мм)"
 
 #: SettingsResources.resx$PageSize_A5$Message
 msgid "A5 (148x210 mm)"
-msgstr "A5 (148 x 210 мм)"
+msgstr "A5 (148x210 мм)"
 
 #: FDesktop.resx$tsAbout.Text$Message
 #: FAbout.resx$$this.Text$Message
@@ -61,19 +61,19 @@ msgstr "Добавить"
 
 #: MiscResources.resx$EmailError$Message
 msgid "An error occurred while trying to send an email"
-msgstr ""
+msgstr "Ошибка при попытке отправить e-mail."
 
 #: MiscResources.resx$UnknownDriverError$Message
 msgid "An error occurred with the scanning driver"
-msgstr "Ощибка драйвера сканирования"
+msgstr "Ошибка драйвера сканирования"
 
 #: MiscResources.resx$ConfirmClearItems$Message
 msgid "Are you sure you want to clear {0} item(s)?"
-msgstr "Желаете очистить профиль(ли) {0}?"
+msgstr "Вы уверены, что хотите удалить {0} объект(ов)?"
 
 #: MiscResources.resx$ConfirmDeleteSingleProfile$Message
 msgid "Are you sure you want to delete the profile {0}?"
-msgstr "Удалить выбранный профиль{0}?"
+msgstr "Удалить профиль {0}?"
 
 #: MiscResources.resx$ConfirmDeleteItems$Message
 msgid "Are you sure you want to delete {0} item(s)?"
@@ -89,11 +89,11 @@ msgstr "Глубина цвета"
 
 #: MiscResources.resx$FileTypeBmp$Message
 msgid "Bitmap Files (*.bmp)"
-msgstr "Файли несжатых рисунков (*.bmp)"
+msgstr "Файлы несжатых рисунков (*.bmp)"
 
 #: SettingsResources.resx$BitDepth_1BlackAndWhite$Message
 msgid "Black & White"
-msgstr "Чёрно-белое"
+msgstr "Чёрно-белый"
 
 #: FEditScanSettings.resx$label6.Text$Message
 msgid "Brightness"
@@ -381,7 +381,7 @@ msgstr ""
 
 #: FEditScanSettings.resx$rdbNativeWIA.Text$Message
 msgid "Use native WIA UI"
-msgstr "Рідний інтерфейс сканера WIA UI"
+msgstr "Использовать собственный интерфейс WIA."
 
 #: FEditScanSettings.resx$rdbConfig.Text$Message
 msgid "Use predefined settings"
@@ -393,11 +393,11 @@ msgstr "Версия {0}"
 
 #: FEditScanSettings.resx$rdWIA.Text$Message
 msgid "WIA Driver"
-msgstr "TWAIN драйвер"
+msgstr "Драйвер WIA"
 
 #: FTwainGui.resx$label1.Text$Message
 msgid "Waiting for TWAIN to complete"
-msgstr "Ожидание завершения работы TWAIN"
+msgstr "Драйвер WIA"
 
 #: MiscResources.resx$DontHavePermission$Message
 msgid "You don't have permission to save files at this location"
