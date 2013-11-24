@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-10 00:50+0000\n"
-"PO-Revision-Date: 2013-11-23 23:52+0000\n"
+"PO-Revision-Date: 2013-11-24 18:50+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt-BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
-"X-POOTLE-MTIME: 1385250742.0\n"
+"X-POOTLE-MTIME: 1385319017.0\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
@@ -376,9 +376,8 @@ msgid "US Legal (8.5x14 in)"
 msgstr "Ofício (8.5x14 pol)"
 
 #: SettingsResources.resx$PageSize_Letter$Message
-#, fuzzy
 msgid "US Letter (8.5x11 in)"
-msgstr "Ofício (8.5x14 pol)"
+msgstr "Ofício (8.5x11 pol)"
 
 #: FEditScanSettings.resx$rdbNativeWIA.Text$Message
 msgid "Use native WIA UI"
@@ -406,16 +405,16 @@ msgstr "Você não tem permissão para salvar arquivos neste local"
 
 #: TiffViewerCtl.resx$tsZoom.ToolTipText$Message
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #: TiffViewerCtl.resx$tsZoomPlus.ToolTipText$Message
 msgid "Zoom in"
-msgstr ""
+msgstr "Mais zoom"
 
 #: TiffViewerCtl.resx$tsZoomOut.ToolTipText$Message
 #: TiffViewerCtl.resx$tsZoomActual.ToolTipText$Message
 msgid "Zoom out"
-msgstr ""
+msgstr "Menos zoom"
 
 #: FAbout.resx$linkLabel1.Text$Message
 msgid "http://sourceforge.com/projects/naps2"
