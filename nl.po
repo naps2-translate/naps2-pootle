@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-10 19:04+0000\n"
-"PO-Revision-Date: 2015-06-16 04:52+0000\n"
+"PO-Revision-Date: 2015-06-28 17:32+0000\n"
 "Last-Translator: emphyrio <list@schuiling.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
-"X-POOTLE-MTIME: 1434430345.0\n"
+"X-POOTLE-MTIME: 1435512768.0\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
@@ -258,7 +258,7 @@ msgstr "Bewerken"
 
 #: FDesktop.resx$tsdEmailPDF.Text$Message
 msgid "Email PDF"
-msgstr "E-mail PDF"
+msgstr "PDF mailen"
 
 #: MiscResources.resx$FileTypeEmf$Message
 msgid "Enhanced Windows MetaFile (*.emf)"
@@ -363,11 +363,11 @@ msgstr "Maximale kwaliteit (grote bestanden)"
 
 #: FDesktop.resx$tsMoveDown.Text$Message
 msgid "Move Down"
-msgstr "Naar beneden"
+msgstr "Omlaag"
 
 #: FDesktop.resx$tsMoveUp.Text$Message
 msgid "Move Up"
-msgstr "Naar boven"
+msgstr "Omhoog"
 
 #: MiscResources.resx$NAPS2$Message
 msgid "NAPS2"
@@ -586,11 +586,11 @@ msgstr "NAPS2 updaten"
 
 #: FEditScanSettings.resx$rdbNative.Text$Message
 msgid "Use native UI"
-msgstr "Gebruik eigen interface"
+msgstr "Gebruik voorgedefinieerd"
 
 #: FEditScanSettings.resx$rdbConfig.Text$Message
 msgid "Use predefined settings"
-msgstr "Gebruik voorgedefinieerde instellingen"
+msgstr "Gebruik voorgedefinieerd"
 
 #: FOcrLanguageDownload.resx$label1.Text$Message
 msgid "Using OCR requires you to download each language you want to scan"
