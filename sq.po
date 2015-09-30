@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-27 21:08+0000\n"
-"PO-Revision-Date: 2015-08-07 09:52+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2015-09-28 14:04+0000\n"
+"Last-Translator: Klean <xhelilajk@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
-"X-POOTLE-MTIME: 1438941178.0\n"
+"X-POOTLE-MTIME: 1443449040.0\n"
 
-# No change needed.
+# No need for change.
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
 msgstr "100 dpi"
 
-# No change needed.
+# No need for change.
 #: SettingsResources.resx$Dpi_1200$Message
 msgid "1200 dpi"
 msgstr "1200 dpi"
@@ -85,7 +85,7 @@ msgstr "Rreth"
 
 #: FScanProgress.resx$$this.Text$Message
 msgid "Acquiring data"
-msgstr ""
+msgstr "Po merr të dhënat"
 
 #: FDesktop.resx$tsEmailPDFAll.Text$Message
 #: FDesktop.resx$tsReverseAll.Text$Message
@@ -97,39 +97,39 @@ msgstr "Të gjitha ({0})"
 
 #: FPdfSettings.resx$cbAllowAnnotations.Text$Message
 msgid "Allow Annotations"
-msgstr ""
+msgstr "Lejo shënimet"
 
 #: FPdfSettings.resx$cbAllowContentCopying.Text$Message
 msgid "Allow Content Copying"
-msgstr ""
+msgstr "Lejo kopjimin e përmbajtjes"
 
 #: FPdfSettings.resx$cbAllowContentCopyingForAccessibility.Text$Message
 msgid "Allow Content Copying for Accessibility"
-msgstr ""
+msgstr "Lejo kopjimin e përmbajtjes për mundësi hyrjeje"
 
 #: FPdfSettings.resx$cbAllowDocumentAssembly.Text$Message
 msgid "Allow Document Assembly"
-msgstr ""
+msgstr "Lejo montimin e dokumentit"
 
 #: FPdfSettings.resx$cbAllowDocumentModification.Text$Message
 msgid "Allow Document Modification"
-msgstr ""
+msgstr "Lejo modifikimin e dokumentit"
 
 #: FPdfSettings.resx$cbAllowFormFilling.Text$Message
 msgid "Allow Form Filling"
-msgstr ""
+msgstr "Lejo plotësimin e formularit"
 
 #: FPdfSettings.resx$cbAllowFullQualityPrinting.Text$Message
 msgid "Allow Full Quality Printing"
-msgstr ""
+msgstr "Lejo printimin me cilësi të plotë"
 
 #: FPdfSettings.resx$cbAllowPrinting.Text$Message
 msgid "Allow Printing"
-msgstr ""
+msgstr "Lejo printimin"
 
 #: MiscResources.resx$ErrorSaving$Message
 msgid "An error occurred when trying to save the file"
-msgstr ""
+msgstr "Ndodhi një gabim gjatë provës për ruajtjen e skedarit"
 
 #: MiscResources.resx$EmailError$Message
 msgid "An error occurred while trying to send an email"
@@ -142,7 +142,7 @@ msgstr "Ndodhi një gabim me drejtuesin e skanimit"
 # No change needed.
 #: MiscResources.resx$ConfirmClearItems$Message
 msgid "Are you sure you want to clear {0} item(s)?"
-msgstr "A je i sigurt se dëshiron të pastrosh {0} elemente?"
+msgstr "A je i sigurt se dëshiron të pastrosh {0} element(e)?"
 
 #: MiscResources.resx$ConfirmDeleteSingleProfile$Message
 msgid "Are you sure you want to delete the profile {0}?"
@@ -151,7 +151,7 @@ msgstr "A je i sigurt se dëshiron të fshish profilin {0}?"
 # No change needed.
 #: MiscResources.resx$ConfirmDeleteItems$Message
 msgid "Are you sure you want to delete {0} item(s)?"
-msgstr "A je i sigurt se dëshiron të fshish {0} elemente?"
+msgstr "A je i sigurt se dëshiron të fshish {0} element(e)?"
 
 #: MiscResources.resx$ConfirmDeleteMultipleProfiles$Message
 msgid "Are you sure you want to delete {0} profiles?"
@@ -159,31 +159,31 @@ msgstr "A je i sigurt se dëshiron të fshish {0} profile?"
 
 #: MiscResources.resx$ConfirmResetImages$Message
 msgid "Are you sure you want undo your changes to {0} image(s)?"
-msgstr ""
+msgstr "A je i sigurt se dëshiron të zhbësh ndryshimet e tua te {0} imazh(e)?"
 
 #: FEmailSettings.resx$label1.Text$Message
 msgid "Attachment Name"
-msgstr ""
+msgstr "Emri i bashkëlidhjes"
 
 #: FPdfSettings.resx$label3.Text$Message
 msgid "Author"
-msgstr ""
+msgstr "Autori"
 
 #: FPlaceholders.resx$label13.Text$Message
 msgid "Auto-incrementing number (1 digit)"
-msgstr ""
+msgstr "Po rrit automatikisht numrin (1 shifër)"
 
 #: FPlaceholders.resx$label12.Text$Message
 msgid "Auto-incrementing number (2 digits)"
-msgstr ""
+msgstr "Po rrit automatikisht numrin (2 shifra)"
 
 #: FPlaceholders.resx$label11.Text$Message
 msgid "Auto-incrementing number (3 digits)"
-msgstr ""
+msgstr "Po rrit automatikisht numrin (3 shifra)"
 
 #: FPlaceholders.resx$label10.Text$Message
 msgid "Auto-incrementing number (4 digits)"
-msgstr ""
+msgstr "Po rrit automatikisht numrin (4 shifra)"
 
 #: MiscResources.resx$AutoUpdates$Message
 msgid "Automatic Updates"
@@ -271,9 +271,8 @@ msgid "Copyright © 2012 Michael Adams"
 msgstr "E drejta e autorit © 2012 Michael Adams"
 
 #: FAbout.resx__3$labelCopyright.Text$Message
-#, fuzzy
 msgid "Copyright © 2012-2015 Ben Olden-Cooligan"
-msgstr "E drejta e autorit © 2012-2014 Ben Olden-Cooligan"
+msgstr "E drejta e autorit © 2012-2015 Ben Olden-Cooligan"
 
 #: FAbout.resx__2$labelCopyright.Text$Message
 msgid "Copyright © 2013 Peter De Leeuw"
@@ -283,7 +282,7 @@ msgstr "E drejta e autorit © 2013 Peter De Leeuw"
 #: FViewer.resx$tsCrop.Text$Message
 #: FCrop.resx$$this.Text$Message
 msgid "Crop"
-msgstr ""
+msgstr "Preje"
 
 #: SettingsResources.resx$PageSize_Custom$Message
 msgid "Custom"
@@ -292,7 +291,7 @@ msgstr "E personalizuar"
 # No change needed.
 #: MiscResources.resx$CustomPageSizeFormat$Message
 msgid "Custom ({0}x{1} {2})"
-msgstr "E personalizuar ({0} x {1} {2})"
+msgstr "E personalizuar ({0}x{1} {2})"
 
 #: FPageSize.resx$$this.Text$Message
 msgid "Custom Page Size"
@@ -301,16 +300,17 @@ msgstr "Madhësi e personalizuar e faqes"
 #: FViewer.resx$tsCustomRotation.Text$Message
 #: FDesktop.resx$customRotationToolStripMenuItem.Text$Message
 msgid "Custom Rotation"
-msgstr ""
+msgstr "Rrotullim i personalizuar"
 
+# No need for change.
 #: FPlaceholders.resx$label6.Text$Message
 msgid "Day (01-31)"
-msgstr ""
+msgstr "Dita (01 - 31)"
 
 #: FPdfSettings.resx$label1.Text$Message
 #: FImageSettings.resx$label1.Text$Message
 msgid "Default File Name"
-msgstr ""
+msgstr "Emri i paracaktuar i skedarit"
 
 #: FDesktop.resx$tsDeinterleave.Text$Message
 msgid "Deinterleave"
@@ -376,15 +376,15 @@ msgstr "Dërgo me email PDF"
 #: FEmailSettings.resx$$this.Text$Message
 #: FDesktop.resx$tsEmailSettings.Text$Message
 msgid "Email Settings"
-msgstr ""
+msgstr "Cilësimet e emailit"
 
 #: FPdfSettings.resx$cbEncryptPdf.Text$Message
 msgid "Encrypt PDF"
-msgstr ""
+msgstr "Shifro PDF"
 
 #: FPdfSettings.resx$groupProtection.Text$Message
 msgid "Encryption"
-msgstr ""
+msgstr "Shifrimi"
 
 #: MiscResources.resx$FileTypeEmf$Message
 msgid "Enhanced Windows MetaFile (*.emf)"
@@ -409,7 +409,7 @@ msgstr "Furnizuesi"
 
 #: FPlaceholders.resx$label1.Text$Message
 msgid "File Name"
-msgstr ""
+msgstr "Emri i skedarit"
 
 #: FViewer.resx$tsFlip.Text$Message
 #: FDesktop.resx$tsFlip.Text$Message
@@ -419,6 +419,8 @@ msgstr "Përmbys"
 #: FImageSettings.resx$lblWarning.Text$Message
 msgid "For high JPEG qualities (80+), use the Maximum Quality profile option for best results"
 msgstr ""
+"Për cilësi të madhe të JPEG (80+), përdor opsionin e profilit Cilësi "
+"maksimale për rezultatet më të mira"
 
 #: MiscResources.resx$FileTypeGif$Message
 msgid "GIF File (*.gif)"
@@ -440,9 +442,10 @@ msgstr "E hirtë"
 msgid "Horizontal align"
 msgstr "Drejto horizontalisht"
 
+# No need for change.
 #: FPlaceholders.resx$label7.Text$Message
 msgid "Hour (0-23)"
-msgstr ""
+msgstr "Ora (0 - 23)"
 
 #: FAbout.resx$label1.Text$Message
 msgid "Icons from"
@@ -450,12 +453,12 @@ msgstr "Ikonat nga"
 
 #: FDesktop.resx$tsdImage.Text$Message
 msgid "Image"
-msgstr ""
+msgstr "Imazhi"
 
 #: FImageSettings.resx$$this.Text$Message
 #: FDesktop.resx$tsImageSettings.Text$Message
 msgid "Image Settings"
-msgstr ""
+msgstr "Cilësimet e imazhit"
 
 #: FDesktop.resx$tsImport.Text$Message
 msgid "Import"
@@ -487,11 +490,11 @@ msgstr "Skedar JPEG (*.jpg, *.jpeg)"
 
 #: FImageSettings.resx$label2.Text$Message
 msgid "Jpeg Quality"
-msgstr ""
+msgstr "Cilësi Jpeg"
 
 #: FPdfSettings.resx$label6.Text$Message
 msgid "Keywords"
-msgstr ""
+msgstr "Fjalët kyçe"
 
 #: FDesktop.resx$toolStripDropDownButton1.Text$Message
 msgid "Language"
@@ -515,15 +518,17 @@ msgstr "Cilësi maksimale (skedarë të mëdhenj)"
 
 #: FPdfSettings.resx$groupMetadata.Text$Message
 msgid "Metadata"
-msgstr ""
+msgstr "Të dhëna mbi të dhënat"
 
+# No need for change.
 #: FPlaceholders.resx$label8.Text$Message
 msgid "Minute (00-59)"
-msgstr ""
+msgstr "Minuta (00 - 59)"
 
+# No need for change.
 #: FPlaceholders.resx$label5.Text$Message
 msgid "Month (01-12)"
-msgstr ""
+msgstr "Muaji (01 - 12)"
 
 #: FDesktop.resx$tsMove.TextSecond$Message
 msgid "Move Down"
@@ -543,15 +548,15 @@ msgstr "Emri mungon"
 
 #: FProfiles.resx$btnAdd.Text$Message
 msgid "New"
-msgstr ""
+msgstr "I ri"
 
 #: FDesktop.resx$tsNewProfile.Text$Message
 msgid "New Profile"
-msgstr ""
+msgstr "Profil i ri"
 
 #: FViewer.resx$tsNext.Text$Message
 msgid "Next"
-msgstr ""
+msgstr "Pasardhëse"
 
 #: MiscResources.resx$NoDeviceSelected$Message
 msgid "No device selected"
@@ -559,7 +564,7 @@ msgstr "Nuk është zgjedhur asnjë pajisje"
 
 #: MiscResources.resx$NoPagesInFeeder$Message
 msgid "No pages are in the feeder"
-msgstr ""
+msgstr "Nuk ka faqe te furnizuesi"
 
 #: MiscResources.resx$NoDevicesFound$Message
 msgid "No scanning device was found"
@@ -617,13 +622,13 @@ msgstr "Mbishkruaj skedarin"
 
 #: FPdfSettings.resx$lblOwnerPassword.Text$Message
 msgid "Owner Password"
-msgstr ""
+msgstr "Fjalëkalimi i pronarit"
 
 #: FPdfSettings.resx$$this.Text$Message
 #: FDesktop.resx$tsPdfSettings2.Text$Message
 #: FDesktop.resx$tsPDFSettings.Text$Message
 msgid "PDF Settings"
-msgstr ""
+msgstr "Cilësimet e PDF"
 
 #: MiscResources.resx$FileTypePdf$Message
 msgid "PDF document (*.pdf)"
@@ -643,7 +648,7 @@ msgstr "Burimi i letrës"
 
 #: FPdfPassword.resx$$this.Text$Message
 msgid "Password"
-msgstr ""
+msgstr "Fjalëkalimi"
 
 #: FPdfSettings.resx$linkPlaceholders.Text$Message
 #: FImageSettings.resx$linkPlaceholders.Text$Message
@@ -651,7 +656,7 @@ msgstr ""
 #: FPlaceholders.resx$gboxPlaceholders.Text$Message
 #: FEmailSettings.resx$linkPlaceholders.Text$Message
 msgid "Placeholders"
-msgstr ""
+msgstr "Vendmbajtëset"
 
 #: FViewer.resx$$this.Text$Message
 #: FPlaceholders.resx$label2.Text$Message
@@ -660,11 +665,11 @@ msgstr "Shiko paraprakisht"
 
 #: FViewer.resx$tsPrev.Text$Message
 msgid "Previous"
-msgstr ""
+msgstr "Paraardhës"
 
 #: FDesktop.resx$tsdPrint.Text$Message
 msgid "Print"
-msgstr ""
+msgstr "Printo"
 
 #: FEditScanSettings.resx$$this.Text$Message
 msgid "Profile Settings"
@@ -687,7 +692,7 @@ msgstr "Rikupero imazhet e skanuara"
 #: FPdfSettings.resx$cbRememberSettings.Text$Message
 #: FEmailSettings.resx$cbRememberSettings.Text$Message
 msgid "Remember these settings"
-msgstr ""
+msgstr "Mbaj mend këto cilësime"
 
 #: FDesktop.resx$tsdReorder.Text$Message
 msgid "Reorder"
@@ -695,11 +700,11 @@ msgstr "Rirendit"
 
 #: FDesktop.resx$tsReset.Text$Message
 msgid "Reset"
-msgstr ""
+msgstr "Rivendos"
 
 #: MiscResources.resx$ResetImage$Message
 msgid "Reset Image"
-msgstr ""
+msgstr "Rivendos imazhin"
 
 #: FEditScanSettings.resx$label5.Text$Message
 msgid "Resolution"
@@ -709,7 +714,7 @@ msgstr "Rezolucioni"
 #: FPdfSettings.resx$btnRestoreDefaults.Text$Message
 #: FEmailSettings.resx$btnRestoreDefaults.Text$Message
 msgid "Restore Defaults"
-msgstr ""
+msgstr "Rikthe të paracaktuarat"
 
 #: FDesktop.resx$tsReverse.Text$Message
 msgid "Reverse"
@@ -720,7 +725,7 @@ msgstr "Kthe mbrapsht"
 #: FContrast.resx$btnRevert.Text$Message
 #: FBrightness.resx$btnRevert.Text$Message
 msgid "Revert"
-msgstr ""
+msgstr "Rikthe"
 
 #: SettingsResources.resx$HorizontalAlign_Right$Message
 msgid "Right"
@@ -760,7 +765,7 @@ msgstr "Shkalla"
 
 #: TiffViewerCtl.resx$tsStretch.ToolTipText$Message
 msgid "Scale With Window"
-msgstr ""
+msgstr "Shkallëzo me dritaren"
 
 #: FProfiles.resx$btnScan.Text$Message
 #: FProfiles.resx$ctxScan.Text$Message
@@ -776,11 +781,12 @@ msgstr "Imazhi i skanuar"
 #: MiscResources.resx$ScanPageProgress$Message
 #: FScanProgress.resx$labelPage.Text$Message
 msgid "Scanning page {0}"
-msgstr ""
+msgstr "Po skanon faqen {0}"
 
+# No need for change.
 #: FPlaceholders.resx$label9.Text$Message
 msgid "Second (00-59)"
-msgstr ""
+msgstr "Sekonda (00 - 59)"
 
 #: FDesktop.resx$ctxSelectAll.Text$Message
 msgid "Select All"
@@ -804,16 +810,16 @@ msgstr "E zgjedhur ({0})"
 
 #: FProfiles.resx$ctxSetDefault.Text$Message
 msgid "Set Default"
-msgstr ""
+msgstr "Vendos të paracaktuar"
 
 #: FPdfSettings.resx$cbShowOwnerPassword.Text$Message
 #: FPdfSettings.resx$cbShowUserPassword.Text$Message
 msgid "Show"
-msgstr ""
+msgstr "Shfaq"
 
 #: FPdfSettings.resx$label5.Text$Message
 msgid "Subject"
-msgstr ""
+msgstr "Subjekti"
 
 #: MiscResources.resx$FileTypeTiff$Message
 msgid "TIFF File (*.tiff, *.tif)"
@@ -840,6 +846,8 @@ msgstr "Skedari {0} tashmë ekziston. A dëshironi ta mbishkruani?"
 #: FPdfPassword.resx$lblPrompt.Text$Message
 msgid "The following file is encrypted and requires a password to open: {0}"
 msgstr ""
+"Skedari i mëposhtëm është i shifruar dhe kërkon një fjalëkalim për t'u "
+"hapur: {0}"
 
 #: MiscResources.resx$DeviceNotFound$Message
 msgid "The selected scanner could not be found"
@@ -848,6 +856,8 @@ msgstr "Skaneri i zgjedhur nuk mund të gjendej"
 #: MiscResources.resx$NoFeederSupport$Message
 msgid "The selected scanner does not support using a feeder. If your scanner does have a feeder, try using a different driver"
 msgstr ""
+"Skaneri i zgjedhur nuk e mbështet përdorimin e furnizuesit. Nëse skaneri yt "
+"nuk ka një furnizues, provo të përdorësh një drejtues të ndryshëm"
 
 #: MiscResources.resx$DeviceOffline$Message
 msgid "The selected scanner is offline"
@@ -855,7 +865,7 @@ msgstr "Skaneri i zgjedhur është jashtë linje"
 
 #: FPdfSettings.resx$label4.Text$Message
 msgid "Title"
-msgstr ""
+msgstr "Titulli"
 
 #: SettingsResources.resx$PageSize_Legal$Message
 msgid "US Legal (8.5x14 in)"
@@ -867,16 +877,15 @@ msgstr "Letër SHBA (8.5 x 11 inç)"
 
 #: MiscResources.resx$UnsavedChanges$Message
 msgid "Unsaved Changes"
-msgstr ""
+msgstr "Ndryshimet e pa ruajtura"
 
 #: FUpdate.resx$$this.Text$Message
 msgid "Update NAPS2"
 msgstr "Përditëso NAPS2"
 
 #: FEditScanSettings.resx$rdbNative.Text$Message
-#, fuzzy
 msgid "Use native UI"
-msgstr "Përdorni UI origjinal të WIA"
+msgstr "Përdor UI origjinal"
 
 #: FEditScanSettings.resx$rdbConfig.Text$Message
 msgid "Use predefined settings"
@@ -884,7 +893,7 @@ msgstr "Përdor cilësimet e paracaktuara"
 
 #: FPdfSettings.resx$lblUserPassword.Text$Message
 msgid "User Password"
-msgstr ""
+msgstr "Fjalëkalimi i përdoruesit"
 
 #: FOcrLanguageDownload.resx$label1.Text$Message
 msgid "Using OCR requires you to download each language you want to scan"
@@ -914,23 +923,26 @@ msgstr "X"
 
 #: FPlaceholders.resx$label3.Text$Message
 msgid "Year"
-msgstr ""
+msgstr "Viti"
 
+# No need for change.
 #: FPlaceholders.resx$label4.Text$Message
 msgid "Year (00-99)"
-msgstr ""
+msgstr "Viti (00 - 99)"
 
 #: MiscResources.resx$PdfNoPermissionToExtractContent$Message
 msgid "You do not have permission to copy content from the file "{0}""
-msgstr ""
+msgstr "Nuk ke të drejta të kopjosh përmbajtjen nga skedari \"{0}\""
 
 #: MiscResources.resx$DontHavePermission$Message
 msgid "You don't have permission to save files at this location"
-msgstr "Nuk ke të drejta për të ruajtur skedarët në këtë vendndodhje"
+msgstr "Nuk ke të drejta për të kopjuar përmbajtjen nga skedari \"{0}\""
 
 #: MiscResources.resx$ExitWithUnsavedChanges$Message
 msgid "You have unsaved changes. Are you sure you want to exit and discard those changes?"
 msgstr ""
+"Ke ndryshime të paruajtura. A je i sigurt se dëshiron të dalësh dhe të mos i "
+"ruash ato ndryshime?"
 
 #: TiffViewerCtl.resx$tsZoom.ToolTipText$Message
 msgid "Zoom"
@@ -938,15 +950,13 @@ msgstr "Shkalla e zmadhimit"
 
 #: TiffViewerCtl.resx$tsZoomActual.ToolTipText$Message
 msgid "Zoom Actual"
-msgstr ""
+msgstr "Zmadho aktualen"
 
 #: TiffViewerCtl.resx$tsZoomPlus.ToolTipText$Message
-#, fuzzy
 msgid "Zoom In"
 msgstr "Zmadho"
 
 #: TiffViewerCtl.resx$tsZoomOut.ToolTipText$Message
-#, fuzzy
 msgid "Zoom Out"
 msgstr "Zvogëlo"
 
@@ -960,7 +970,7 @@ msgstr "http://www.fatcow.com/free-icons"
 
 #: FAbout.resx$linkLabel1.Text$Message
 msgid "http://www.naps2.com"
-msgstr ""
+msgstr "http://www.naps2.com"
 
 #: SettingsResources.resx$PageSizeUnit_Inch$Message
 msgid "in"
@@ -973,7 +983,7 @@ msgstr "mm"
 #: MiscResources.resx$OfN$Message
 #: FViewer.resx$lblPageTotal.Text$Message
 msgid "of {0}"
-msgstr ""
+msgstr "nga {0}"
 
 #: MiscResources.resx$SizeProgress$Message
 #: FDownloadProgress.resx$labelSub.Text$Message
