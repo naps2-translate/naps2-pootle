@@ -3,73 +3,74 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-20 09:50+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-09-29 05:28+0000\n"
+"Last-Translator: matis123 <matis.pihu@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Pootle 2.5.0\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
+"X-POOTLE-MTIME: 1443504538.0\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
-msgstr ""
+msgstr "100 dpi"
 
 #: SettingsResources.resx$Dpi_1200$Message
 msgid "1200 dpi"
-msgstr ""
+msgstr "1200 dpi"
 
 #: SettingsResources.resx$Dpi_150$Message
 msgid "150 dpi"
-msgstr ""
+msgstr "150 dpi"
 
 #: SettingsResources.resx$Dpi_200$Message
 msgid "200 dpi"
-msgstr ""
+msgstr "200 dpi"
 
 #: SettingsResources.resx$BitDepth_24Color$Message
 msgid "24-bit Color"
-msgstr ""
+msgstr "24-bitine värv"
 
 #: SettingsResources.resx$Dpi_300$Message
 msgid "300 dpi"
-msgstr ""
+msgstr "300 dpi"
 
 #: SettingsResources.resx$Dpi_400$Message
 msgid "400 dpi"
-msgstr ""
+msgstr "400 dpi"
 
 #: SettingsResources.resx$Dpi_600$Message
 msgid "600 dpi"
-msgstr ""
+msgstr "600 dpi"
 
 #: SettingsResources.resx$Dpi_800$Message
 msgid "800 dpi"
-msgstr ""
+msgstr "800 dpi"
 
 #: MiscResources.resx$UpdateNow$Message
 #: FUpdate.resx$lblPrompt.Text$Message
 msgid "A newer version of NAPS2 is available. Do you want to update now?"
-msgstr ""
+msgstr "Uuem versioon on saadaval. Soovid sa kohe uuendada?"
 
 #: SettingsResources.resx$PageSize_A3$Message
 msgid "A3 (297x420 mm)"
-msgstr ""
+msgstr "A3 (297 x 420 mm)"
 
 #: SettingsResources.resx$PageSize_A4$Message
 msgid "A4 (210x297 mm)"
-msgstr ""
+msgstr "A4 210 x 297 mm"
 
 #: SettingsResources.resx$PageSize_A5$Message
 msgid "A5 (148x210 mm)"
-msgstr ""
+msgstr "A5 (148 x 210 mm)"
 
 #: FDesktop.resx$tsAbout.Text$Message
 #: FAbout.resx$$this.Text$Message
 msgid "About"
-msgstr ""
+msgstr "Meist"
 
 #: FScanProgress.resx$$this.Text$Message
 msgid "Acquiring data"
@@ -81,7 +82,7 @@ msgstr ""
 #: FDesktop.resx$tsSaveImagesAll.Text$Message
 #: FDesktop.resx$tsSavePDFAll.Text$Message
 msgid "All ({0})"
-msgstr ""
+msgstr "Kõik ({0})"
 
 #: FPdfSettings.resx$cbAllowAnnotations.Text$Message
 msgid "Allow Annotations"
@@ -89,7 +90,7 @@ msgstr ""
 
 #: FPdfSettings.resx$cbAllowContentCopying.Text$Message
 msgid "Allow Content Copying"
-msgstr ""
+msgstr "Luba sisu kopeerimine"
 
 #: FPdfSettings.resx$cbAllowContentCopyingForAccessibility.Text$Message
 msgid "Allow Content Copying for Accessibility"
@@ -133,15 +134,15 @@ msgstr ""
 
 #: MiscResources.resx$ConfirmDeleteSingleProfile$Message
 msgid "Are you sure you want to delete the profile {0}?"
-msgstr ""
+msgstr "Kas oled kindel, et tahad profiili '{0}' kustutada?"
 
 #: MiscResources.resx$ConfirmDeleteItems$Message
 msgid "Are you sure you want to delete {0} item(s)?"
-msgstr ""
+msgstr "Oled sa kindel, et soovid {0} elementi kustutada?"
 
 #: MiscResources.resx$ConfirmDeleteMultipleProfiles$Message
 msgid "Are you sure you want to delete {0} profiles?"
-msgstr ""
+msgstr "Oled sa kindel, et soovid kustutada {0} profiili?"
 
 #: MiscResources.resx$ConfirmResetImages$Message
 msgid "Are you sure you want undo your changes to {0} image(s)?"
@@ -149,11 +150,11 @@ msgstr ""
 
 #: FEmailSettings.resx$label1.Text$Message
 msgid "Attachment Name"
-msgstr ""
+msgstr "Manuse nimi"
 
 #: FPdfSettings.resx$label3.Text$Message
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: FPlaceholders.resx$label13.Text$Message
 msgid "Auto-incrementing number (1 digit)"
@@ -200,7 +201,7 @@ msgstr ""
 #: FBrightness.resx$$this.Text$Message
 #: FEditScanSettings.resx$label6.Text$Message
 msgid "Brightness"
-msgstr ""
+msgstr "Heledus"
 
 #: FEditScanSettings.resx$btnCancel.Text$Message
 #: FImageSettings.resx$btnCancel.Text$Message
@@ -218,39 +219,39 @@ msgstr ""
 #: FRotate.resx$btnCancel.Text$Message
 #: FBrightness.resx$btnCancel.Text$Message
 msgid "Cancel"
-msgstr ""
+msgstr "Loobu"
 
 #: SettingsResources.resx$HorizontalAlign_Center$Message
 msgid "Center"
-msgstr ""
+msgstr "Keskel"
 
 #: MiscResources.resx$ChooseProfile$Message
 msgid "Choose Profile"
-msgstr ""
+msgstr "Vali profiil"
 
 #: FEditScanSettings.resx$btnChooseDevice.Text$Message
 msgid "Choose device"
-msgstr ""
+msgstr "Seadme valik"
 
 #: MiscResources.resx$Clear$Message
 #: FDesktop.resx$tsClear.Text$Message
 msgid "Clear"
-msgstr ""
+msgstr "Puhasta"
 
 #: FDesktop.resx$tsContrast.Text$Message
 #: FViewer.resx$tsContrast.Text$Message
 #: FContrast.resx$$this.Text$Message
 #: FEditScanSettings.resx$label7.Text$Message
 msgid "Contrast"
-msgstr ""
+msgstr "Kontrast"
 
 #: FDesktop.resx$ctxCopy.Text$Message
 msgid "Copy"
-msgstr ""
+msgstr "Kopeeri"
 
 #: FAbout.resx$labelCopyright.Text$Message
 msgid "Copyright © 2009 Pavel Sorejs"
-msgstr ""
+msgstr "Copyright © 2009 Pavel Sorejs"
 
 #: FAbout.resx__1$labelCopyright.Text$Message
 msgid "Copyright © 2012 Michael Adams"
@@ -289,12 +290,12 @@ msgstr ""
 
 #: FPlaceholders.resx$label6.Text$Message
 msgid "Day (01-31)"
-msgstr ""
+msgstr "Päev (01-31)"
 
 #: FPdfSettings.resx$label1.Text$Message
 #: FImageSettings.resx$label1.Text$Message
 msgid "Default File Name"
-msgstr ""
+msgstr "Vaikimisi faili nimi"
 
 #: FDesktop.resx$tsDeinterleave.Text$Message
 msgid "Deinterleave"
@@ -307,15 +308,15 @@ msgstr ""
 #: FProfiles.resx$ctxDelete.Text$Message
 #: FDesktop.resx$tsDelete.Text$Message
 msgid "Delete"
-msgstr ""
+msgstr "Kustuta"
 
 #: FEditScanSettings.resx$label1.Text$Message
 msgid "Device"
-msgstr ""
+msgstr "Seade"
 
 #: FEditScanSettings.resx$label8.Text$Message
 msgid "Display name"
-msgstr ""
+msgstr "Näidatav nimi"
 
 #: MiscResources.resx$EnableAutoUpdates$Message
 msgid "Do you want NAPS2 to automatically check for updates?"
@@ -355,33 +356,33 @@ msgstr ""
 
 #: FDesktop.resx$tsdEmailPDF.Text$Message
 msgid "Email PDF"
-msgstr ""
+msgstr "PDF e-mailile"
 
 #: FEmailSettings.resx$$this.Text$Message
 #: FDesktop.resx$tsEmailSettings.Text$Message
 msgid "Email Settings"
-msgstr ""
+msgstr "E-posti sätted"
 
 #: FPdfSettings.resx$cbEncryptPdf.Text$Message
 msgid "Encrypt PDF"
-msgstr ""
+msgstr "Krüpti PDF"
 
 #: FPdfSettings.resx$groupProtection.Text$Message
 msgid "Encryption"
-msgstr ""
+msgstr "Krüpteering"
 
 #: MiscResources.resx$FileTypeEmf$Message
 msgid "Enhanced Windows MetaFile (*.emf)"
-msgstr ""
+msgstr "Laiendatud metafail (*.emf)"
 
 #: MiscResources.resx$Error$Message
 msgid "Error"
-msgstr ""
+msgstr "Viga"
 
 #: MiscResources.resx$EstimatedDownloadSize$Message
 #: FOcrLanguageDownload.resx$labelSizeEstimate.Text$Message
 msgid "Estimated download size: {0} MB"
-msgstr ""
+msgstr "Hinnanguline allalaadimise suurus: {0} MB"
 
 #: MiscResources.resx$FileTypeExif$Message
 msgid "Exchangeable Image File (*.exif)"
@@ -389,7 +390,7 @@ msgstr ""
 
 #: SettingsResources.resx$Source_Feeder$Message
 msgid "Feeder"
-msgstr ""
+msgstr "Söötur"
 
 #: FPlaceholders.resx$label1.Text$Message
 msgid "File Name"
@@ -418,15 +419,15 @@ msgstr ""
 
 #: SettingsResources.resx$BitDepth_8Grayscale$Message
 msgid "Grayscale"
-msgstr ""
+msgstr "Halltoonid"
 
 #: FEditScanSettings.resx$label9.Text$Message
 msgid "Horizontal align"
-msgstr ""
+msgstr "Horisontaalne peegeldamine"
 
 #: FPlaceholders.resx$label7.Text$Message
 msgid "Hour (0-23)"
-msgstr ""
+msgstr "Tund (0-23)"
 
 #: FAbout.resx$label1.Text$Message
 msgid "Icons from"
@@ -434,24 +435,24 @@ msgstr ""
 
 #: FDesktop.resx$tsdImage.Text$Message
 msgid "Image"
-msgstr ""
+msgstr "Pilt"
 
 #: FImageSettings.resx$$this.Text$Message
 #: FDesktop.resx$tsImageSettings.Text$Message
 msgid "Image Settings"
-msgstr ""
+msgstr "Pildi seadistused"
 
 #: FDesktop.resx$tsImport.Text$Message
 msgid "Import"
-msgstr ""
+msgstr "Impordi"
 
 #: MiscResources.resx$InstallComplete$Message
 msgid "Installation Complete"
-msgstr ""
+msgstr "Paigaldamine on lõpetatud"
 
 #: MiscResources.resx$InstallFailedTitle$Message
 msgid "Installation Failed"
-msgstr ""
+msgstr "Paigaldamine nurjus"
 
 #: MiscResources.resx$InstallCompletePromptRestart$Message
 msgid "Installation complete. Do you want to restart NAPS2 now?"
@@ -487,7 +488,7 @@ msgstr ""
 
 #: FDesktop.resx$tStrip.Text$Message
 msgid "Main toolbar"
-msgstr ""
+msgstr "Peamine tööriistariba"
 
 #: FOcrSetup.resx$checkBoxEnableOcr.Text$Message
 msgid "Make PDFs searchable using OCR"
@@ -499,7 +500,7 @@ msgstr ""
 
 #: FPdfSettings.resx$groupMetadata.Text$Message
 msgid "Metadata"
-msgstr ""
+msgstr "Metaandmed"
 
 #: FPlaceholders.resx$label8.Text$Message
 msgid "Minute (00-59)"
@@ -507,19 +508,19 @@ msgstr ""
 
 #: FPlaceholders.resx$label5.Text$Message
 msgid "Month (01-12)"
-msgstr ""
+msgstr "Kuu (01-12)"
 
 #: FDesktop.resx$tsMove.TextSecond$Message
 msgid "Move Down"
-msgstr ""
+msgstr "Liiguta alla"
 
 #: FDesktop.resx$tsMove.TextFirst$Message
 msgid "Move Up"
-msgstr ""
+msgstr "Liiguta üles"
 
 #: MiscResources.resx$NAPS2$Message
 msgid "NAPS2"
-msgstr ""
+msgstr "NAPS2"
 
 #: MiscResources.resx$NameMissing$Message
 msgid "Name missing"
@@ -557,23 +558,23 @@ msgstr ""
 #: FRecover.resx$btnCancel.Text$Message
 #: MiscResources.resx$NotNow$Message
 msgid "Not Now"
-msgstr ""
+msgstr "Mitte praegu"
 
 #: FDesktop.resx$tsOcr.Text$Message
 msgid "OCR"
-msgstr ""
+msgstr "OCR"
 
 #: FOcrLanguageDownload.resx$$this.Text$Message
 msgid "OCR Download"
-msgstr ""
+msgstr "OCR allalaadimine"
 
 #: FOcrSetup.resx$$this.Text$Message
 msgid "OCR Setup"
-msgstr ""
+msgstr "OCR häälestaja"
 
 #: FOcrSetup.resx$label1.Text$Message
 msgid "OCR language"
-msgstr ""
+msgstr "OCR keel"
 
 #: FEmailSettings.resx$btnOK.Text$Message
 #: FEditScanSettings.resx$btnOK.Text$Message
@@ -589,7 +590,7 @@ msgstr ""
 #: FCrop.resx$btnOK.Text$Message
 #: FBrightness.resx$btnOK.Text$Message
 msgid "OK"
-msgstr ""
+msgstr "Olgu"
 
 #: MiscResources.resx$FilesCouldNotBeDownloaded$Message
 msgid "One or more files could not be downloaded"
@@ -597,11 +598,11 @@ msgstr ""
 
 #: MiscResources.resx$OverwriteFile$Message
 msgid "Overwrite File"
-msgstr ""
+msgstr "Kirjuta fail üle"
 
 #: FPdfSettings.resx$lblOwnerPassword.Text$Message
 msgid "Owner Password"
-msgstr ""
+msgstr "Omaniku parool"
 
 #: FPdfSettings.resx$$this.Text$Message
 #: FDesktop.resx$tsPdfSettings2.Text$Message
@@ -635,43 +636,43 @@ msgstr ""
 #: FPlaceholders.resx$gboxPlaceholders.Text$Message
 #: FEmailSettings.resx$linkPlaceholders.Text$Message
 msgid "Placeholders"
-msgstr ""
+msgstr "Kohahoidjad"
 
 #: FViewer.resx$$this.Text$Message
 #: FPlaceholders.resx$label2.Text$Message
 msgid "Preview"
-msgstr ""
+msgstr "Eelvaade"
 
 #: FViewer.resx$tsPrev.Text$Message
 msgid "Previous"
-msgstr ""
+msgstr "Eelmine"
 
 #: FDesktop.resx$tsdPrint.Text$Message
 msgid "Print"
-msgstr ""
+msgstr "Prindi"
 
 #: FEditScanSettings.resx$$this.Text$Message
 msgid "Profile Settings"
-msgstr ""
+msgstr "Profiili sätted"
 
 #: FProfiles.resx$$this.Text$Message
 #: FDesktop.resx$tsProfiles.Text$Message
 msgid "Profiles"
-msgstr ""
+msgstr "Profiilid"
 
 #: FRecover.resx$btnRecover.Text$Message
 msgid "Recover"
-msgstr ""
+msgstr "Taasta"
 
 #: FRecover.resx$$this.Text$Message
 msgid "Recover Scanned Images"
-msgstr ""
+msgstr "Taasta skännitud pildid"
 
 #: FImageSettings.resx$cbRememberSettings.Text$Message
 #: FPdfSettings.resx$cbRememberSettings.Text$Message
 #: FEmailSettings.resx$cbRememberSettings.Text$Message
 msgid "Remember these settings"
-msgstr ""
+msgstr "Mälesta neid seadeid"
 
 #: FDesktop.resx$tsdReorder.Text$Message
 msgid "Reorder"
@@ -714,33 +715,33 @@ msgstr ""
 #: FViewer.resx$tsdRotate.Text$Message
 #: FDesktop.resx$tsdRotate.Text$Message
 msgid "Rotate"
-msgstr ""
+msgstr "Pööra"
 
 #: FViewer.resx$tsRotateLeft.Text$Message
 #: FDesktop.resx$tsRotateLeft.Text$Message
 msgid "Rotate Left"
-msgstr ""
+msgstr "Pööramine vasakule"
 
 #: FViewer.resx$tsRotateRight.Text$Message
 #: FDesktop.resx$tsRotateRight.Text$Message
 msgid "Rotate Right"
-msgstr ""
+msgstr "Pööramine paremale"
 
 #: FDesktop.resx$tsdSaveImages.Text$Message
 msgid "Save Images"
-msgstr ""
+msgstr "Piltide salvestamine"
 
 #: FDesktop.resx$tsdSavePDF.Text$Message
 msgid "Save PDF"
-msgstr ""
+msgstr "Salvesta PDF"
 
 #: FPdfSave.resx$label1.Text$Message
 msgid "Saving to PDF"
-msgstr ""
+msgstr "Salvestan PDF-i"
 
 #: FEditScanSettings.resx$label10.Text$Message
 msgid "Scale"
-msgstr ""
+msgstr "Mõõtuviimine"
 
 #: TiffViewerCtl.resx$tsStretch.ToolTipText$Message
 msgid "Scale With Window"
@@ -751,7 +752,7 @@ msgstr ""
 #: MiscResources.resx$Scan$Message
 #: FDesktop.resx$tsScan.Text$Message
 msgid "Scan"
-msgstr ""
+msgstr "Skaneeri"
 
 #: MiscResources.resx$ScannedImage$Message
 msgid "Scanned Image"
@@ -797,15 +798,15 @@ msgstr ""
 
 #: FPdfSettings.resx$label5.Text$Message
 msgid "Subject"
-msgstr ""
+msgstr "Teema"
 
 #: MiscResources.resx$FileTypeTiff$Message
 msgid "TIFF File (*.tiff, *.tif)"
-msgstr ""
+msgstr "TIFF fail (*.tiff, *.tif)"
 
 #: FEditScanSettings.resx$rdTWAIN.Text$Message
 msgid "TWAIN Driver"
-msgstr ""
+msgstr "TWAIN draiver"
 
 #: MiscResources.resx$ImportErrorCouldNot$Message
 msgid "The file "{0}" could not be imported"
