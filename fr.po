@@ -966,8 +966,7 @@ msgstr "Le fichier « {0} » existe déjà. Faut-il l'écraser ?"
 #: FPdfPassword.resx$lblPrompt.Text$Message
 msgid "The following file is encrypted and requires a password to open: {0}"
 msgstr ""
-"Le fichier suivant est chiffré, son ouverture nécessite un mot de passe : "
-'{0}'
+"Le fichier suivant est chiffré, son ouverture nécessite un mot de passe : {0}"
 
 #: MiscResources.resx$DeviceNotFound$Message
 msgid "The selected scanner could not be found"

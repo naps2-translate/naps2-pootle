@@ -966,8 +966,7 @@ msgstr "Το αρχείο {0} υπάρχει ήδη. Θέλετε να αντι�
 #: FPdfPassword.resx$lblPrompt.Text$Message
 msgid "The following file is encrypted and requires a password to open: {0}"
 msgstr ""
-"Το ακόλουθο αρχείο είναι κρυπτογραφημένο και απαιτεί κωδικό για να ανοίξει: "
-'{0}'
+"Το ακόλουθο αρχείο είναι κρυπτογραφημένο και απαιτεί κωδικό για να ανοίξει: {0}"
 
 #: MiscResources.resx$DeviceNotFound$Message
 msgid "The selected scanner could not be found"

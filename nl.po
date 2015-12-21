@@ -965,8 +965,7 @@ msgstr "Bestand {0} bestaat al. Wilt u het bestand overschrijven?"
 #: FPdfPassword.resx$lblPrompt.Text$Message
 msgid "The following file is encrypted and requires a password to open: {0}"
 msgstr ""
-"Het volgende bestand is versleuteld en vereist een wachtwoord voor openen: "
-'{0}'
+"Het volgende bestand is versleuteld en vereist een wachtwoord voor openen: {0}"
 
 #: MiscResources.resx$DeviceNotFound$Message
 msgid "The selected scanner could not be found"
