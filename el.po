@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-24 20:33+0000\n"
-"PO-Revision-Date: 2016-01-26 23:20+0000\n"
-"Last-Translator: Ben <blue0fish@gmail.com>\n"
+"PO-Revision-Date: 2016-01-29 23:30+0000\n"
+"Last-Translator: solidhit <solidhit2003@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.3\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
-"X-POOTLE-MTIME: 1453850400.000000\n"
+"X-POOTLE-MTIME: 1454110244.000000\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
@@ -54,7 +54,7 @@ msgstr "800 dpi"
 #: FUpdate.resx$lblPrompt.Text$Message
 msgid "A newer version of NAPS2 is available. Do you want to update now?"
 msgstr ""
-"Υπάρχει διαθέσιμη μία νεότερη έκδοση του NAPS2. Θέλετε να γίνει ενημέρωση "
+"Υπάρχει μία νεότερη έκδοση του NAPS2 διαθέσιμη. Θέλετε να γίνει ενημέρωση "
 "τώρα;"
 
 #: SettingsResources.resx$PageSize_A3$Message
@@ -76,7 +76,7 @@ msgstr "Σχετικά"
 
 #: FScanProgress.resx$$this.Text$Message
 msgid "Acquiring data"
-msgstr "Λήψη δεδομένων"
+msgstr "Απόκτηση δεδομένων"
 
 #: FEditScanSettings.resx$btnAdvanced.Text$Message
 msgid "Advanced"
@@ -140,15 +140,15 @@ msgstr "Εναλλακτική Παρεμβολή"
 
 #: MiscResources.resx$AutoSaveError$Message
 msgid "An error occurred when trying to auto save"
-msgstr "Σφάλμα κατά το αυτόματο σώσιμο"
+msgstr "Σφάλμα κατά την αυτόματη αποθήκευση"
 
 #: MiscResources.resx$ErrorSaving$Message
 msgid "An error occurred when trying to save the file"
-msgstr "Σφάλμα κατά το σώσιμο του αρχείου"
+msgstr "Σφάλμα κατά την αποθήκευση του αρχείου"
 
 #: MiscResources.resx$EmailError$Message
 msgid "An error occurred while trying to send an email"
-msgstr "Σφάλμα κατά την αποστολή ενός Email"
+msgstr "Σφάλμα κατά την αποστολή Email"
 
 #: MiscResources.resx$UnknownDriverError$Message
 msgid "An error occurred with the scanning driver"
@@ -200,7 +200,7 @@ msgstr "Συντάκτης"
 #: FEditScanSettings.resx$linkAutoSaveSettings.Text$Message
 #: FAutoSaveSettings.resx$$this.Text$Message
 msgid "Auto Save Settings"
-msgstr "Ρυθμίσεις για Αυτόματο Σώσιμο"
+msgstr "Ρυθμίσεις Αυτόματης Αποθήκευσης"
 
 #: FPlaceholders.resx$label13.Text$Message
 msgid "Auto-incrementing number (1 digit)"
@@ -317,7 +317,7 @@ msgstr "Καθαρισμός"
 
 #: FAutoSaveSettings.resx$cbClearAfterSave.Text$Message
 msgid "Clear images after saving"
-msgstr "Καθαρισμός εικόνων μετά το σώσιμο"
+msgstr "Καθαρισμός εικόνων μετά την αποθήκευση"
 
 #: MiscResources.resx$Close$Message
 msgid "Close"
@@ -476,7 +476,7 @@ msgstr "Ρυθμίσεις Email"
 
 #: FEditScanSettings.resx$cbAutoSave.Text$Message
 msgid "Enable Auto Save"
-msgstr "Αυτόματο Σώσιμο Ενεργό"
+msgstr "Αυτόματη Αποθήκευση Ενεργή"
 
 #: FPdfSettings.resx$cbEncryptPdf.Text$Message
 msgid "Encrypt PDF"
@@ -788,6 +788,7 @@ msgid "One or more files could not be downloaded"
 msgstr "Αποτυχία λήψης για ένα ή περισσότερα αρχεία"
 
 #: FBatchScan.resx$groupboxOutput.Text$Message
+#, fuzzy
 msgid "Output"
 msgstr "Παραγόμενο Αποτέλεσμα"
 
@@ -819,7 +820,7 @@ msgstr "Μέγεθος σελίδας"
 
 #: FEditScanSettings.resx$label2.Text$Message
 msgid "Paper source"
-msgstr "Πηγή χαρτιού"
+msgstr "Προέλευση χαρτιού"
 
 #: FPdfPassword.resx$$this.Text$Message
 msgid "Password"
@@ -948,35 +949,35 @@ msgstr "Περιστροφή Δεξιά"
 
 #: FDesktop.resx$tsdSaveImages.Text$Message
 msgid "Save Images"
-msgstr "Σώσιμο Εικόνων"
+msgstr "Αποθήκευση Εικόνων"
 
 #: MiscResources.resx$SaveImagesProgress$Message
 msgid "Save Images Progress"
-msgstr "Πρόοδος για Σώσιμο Εικόνων"
+msgstr "Πρόοδος Αποθήκευσης Εικόνων"
 
 #: FDesktop.resx$tsdSavePDF.Text$Message
 msgid "Save PDF"
-msgstr "Σώσιμο PDF"
+msgstr "Αποθήκευση PDF"
 
 #: MiscResources.resx$SavePdfProgress$Message
 msgid "Save PDF Progress"
-msgstr "Πρόοδος για Σώσιμο PDF"
+msgstr "Πρόοδος Αποθήκευσης PDF"
 
 #: FBatchScan.resx$rdSaveToSingleFile.Text$Message
 msgid "Save to a single file"
-msgstr "Σώσιμο σε ένα αρχείο"
+msgstr "Αποθήκευση σε ένα αρχείο"
 
 #: FBatchScan.resx$rdSaveToMultipleFiles.Text$Message
 msgid "Save to multiple files"
-msgstr "Σώσιμο σε πολλαπλά αρχεία"
+msgstr "Αποθήκευση σε πολλαπλά αρχεία"
 
 #: MiscResources.resx$BatchStatusSaving$Message
 msgid "Saving batch results"
-msgstr "Σώσιμο αποτελεσμάτων μαζικής"
+msgstr "Αποθήκευση αποτελεσμάτων μαζικής"
 
 #: MiscResources.resx$SavingFormat$Message
 msgid "Saving {0}"
-msgstr "Σώσιμο {0}"
+msgstr "Αποθήκευση {0}"
 
 #: FEditScanSettings.resx$label10.Text$Message
 msgid "Scale"
@@ -1211,17 +1212,17 @@ msgstr "Δεν υπάρχει δικαίωμα αντιγραφής περιεχ
 
 #: MiscResources.resx$DontHavePermission$Message
 msgid "You don't have permission to save files at this location"
-msgstr "Δεν υπάρχει δικαίωμα για να σωθούν αρχεία σε αυτή την τοποθεσία"
+msgstr "Δεν υπάρχει δικαίωμα αποθήκευσης αρχείων σε αυτή την τοποθεσία"
 
 #: MiscResources.resx$ExitWithUnsavedChanges$Message
 msgid "You have unsaved changes. Are you sure you want to exit and discard those changes?"
 msgstr ""
-"Υπάρχουν αλλαγές που δεν έχουν σωθεί. Θέλετε σίγουρα να τερματιστεί η "
+"Υπάρχουν αλλαγές που δεν έχουν αποθηκευτεί. Θέλετε σίγουρα να τερματιστεί η "
 "εφαρμογή;"
 
 #: TiffViewerCtl.resx$tsZoom.ToolTipText$Message
 msgid "Zoom"
-msgstr "Ποσοστό Εστίασης"
+msgstr "Ποσοστό Μεγέθυνσης"
 
 #: TiffViewerCtl.resx$tsZoomActual.ToolTipText$Message
 msgid "Zoom Actual"
@@ -1278,7 +1279,7 @@ msgstr "{0} / {1} αρχεία"
 msgid "{0} image(s) scanned on {1} at {2} may not have been saved, and are recoverable. Do you want to recover them?"
 msgstr ""
 "Υπάρχουν {0} εικόνες που σαρώθηκαν στις {1} και ώρα {2} οι οποίες ενδέχεται "
-"να μην έχουν σωθεί. Θέλετε να ανακτηθούν;"
+"να μην έχουν αποθηκευτεί. Θέλετε να ανακτηθούν;"
 
 #: MiscResources.resx$PdfStatus$Message
 msgid "{0} of {1}"
