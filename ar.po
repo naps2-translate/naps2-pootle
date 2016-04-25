@@ -3,73 +3,78 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-10 01:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-04-10 09:39+0000\n"
+"Last-Translator: Za7ef_SA <abdallah0055@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Pootle 2.5.1.3\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
+"X-POOTLE-MTIME: 1460281196.000000\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
-msgstr ""
+msgstr "100 dpi"
 
 #: SettingsResources.resx$Dpi_1200$Message
 msgid "1200 dpi"
-msgstr ""
+msgstr "1200 dpi"
 
 #: SettingsResources.resx$Dpi_150$Message
+#, fuzzy
 msgid "150 dpi"
-msgstr ""
+msgstr "150 dpi"
 
 #: SettingsResources.resx$Dpi_200$Message
 msgid "200 dpi"
-msgstr ""
+msgstr "200 dpi"
 
 #: SettingsResources.resx$BitDepth_24Color$Message
 msgid "24-bit Color"
-msgstr ""
+msgstr "لون 24 بت"
 
 #: SettingsResources.resx$Dpi_300$Message
 msgid "300 dpi"
-msgstr ""
+msgstr "300 dpi"
 
 #: SettingsResources.resx$Dpi_400$Message
 msgid "400 dpi"
-msgstr ""
+msgstr "400 dpi"
 
 #: SettingsResources.resx$Dpi_600$Message
 msgid "600 dpi"
-msgstr ""
+msgstr "600 dpi"
 
 #: SettingsResources.resx$Dpi_800$Message
 msgid "800 dpi"
-msgstr ""
+msgstr "800 dpi"
 
 #: MiscResources.resx$UpdateNow$Message
 #: FUpdate.resx$lblPrompt.Text$Message
 msgid "A newer version of NAPS2 is available. Do you want to update now?"
-msgstr ""
+msgstr "نسخة جديدة من NAPS2 متوفرة، هل تريد التحديث الآن ؟"
 
 #: SettingsResources.resx$PageSize_A3$Message
+#, fuzzy
 msgid "A3 (297x420 mm)"
-msgstr ""
+msgstr "A3 (297x420 mm)"
 
 #: SettingsResources.resx$PageSize_A4$Message
+#, fuzzy
 msgid "A4 (210x297 mm)"
-msgstr ""
+msgstr "A4 (210x297 mm)"
 
 #: SettingsResources.resx$PageSize_A5$Message
+#, fuzzy
 msgid "A5 (148x210 mm)"
-msgstr ""
+msgstr "A5 (148x210 mm)"
 
 #: FDesktop.resx$tsAbout.Text$Message
 #: FAbout.resx$$this.Text$Message
 msgid "About"
-msgstr ""
+msgstr "حول"
 
 #: FScanProgress.resx$$this.Text$Message
 msgid "Acquiring data"
@@ -77,11 +82,11 @@ msgstr ""
 
 #: FEditProfile.resx$btnAdvanced.Text$Message
 msgid "Advanced"
-msgstr ""
+msgstr "متقدم"
 
 #: FAdvancedScanSettings.resx$$this.Text$Message
 msgid "Advanced Profile Settings"
-msgstr ""
+msgstr "إعدادات الملف الشخصي المتقدمة"
 
 #: FDesktop.resx$tsSaveImagesAll.Text$Message
 #: FDesktop.resx$tsReverseAll.Text$Message
@@ -89,19 +94,19 @@ msgstr ""
 #: FDesktop.resx$tsSavePDFAll.Text$Message
 #: MiscResources.resx$AllCount$Message
 msgid "All ({0})"
-msgstr ""
+msgstr "الكل ({0})"
 
 #: MiscResources.resx$FileTypeAllFiles$Message
 msgid "All Files"
-msgstr ""
+msgstr "كل الملفات"
 
 #: FPdfSettings.resx$cbAllowAnnotations.Text$Message
 msgid "Allow Annotations"
-msgstr ""
+msgstr "اسمح بالتعليقات الوصفية Annotations"
 
 #: FPdfSettings.resx$cbAllowContentCopying.Text$Message
 msgid "Allow Content Copying"
-msgstr ""
+msgstr "اسمح بنسخ المحتوى"
 
 #: FPdfSettings.resx$cbAllowContentCopyingForAccessibility.Text$Message
 msgid "Allow Content Copying for Accessibility"
@@ -113,19 +118,19 @@ msgstr ""
 
 #: FPdfSettings.resx$cbAllowDocumentModification.Text$Message
 msgid "Allow Document Modification"
-msgstr ""
+msgstr "السماح بتعديل الملف"
 
 #: FPdfSettings.resx$cbAllowFormFilling.Text$Message
 msgid "Allow Form Filling"
-msgstr ""
+msgstr "السماح بملء الحقول"
 
 #: FPdfSettings.resx$cbAllowFullQualityPrinting.Text$Message
 msgid "Allow Full Quality Printing"
-msgstr ""
+msgstr "السماح بالطباعة بالجودة الكاملة"
 
 #: FPdfSettings.resx$cbAllowPrinting.Text$Message
 msgid "Allow Printing"
-msgstr ""
+msgstr "السماح بالطباعة"
 
 #: FDesktop.resx$tsAltDeinterleave.Text$Message
 msgid "Alternate Deinterleave"
@@ -137,19 +142,19 @@ msgstr ""
 
 #: MiscResources.resx$AutoSaveError$Message
 msgid "An error occurred when trying to auto save"
-msgstr ""
+msgstr "حدث خطأ عند محاولة الحفظ الآلي"
 
 #: MiscResources.resx$ErrorSaving$Message
 msgid "An error occurred when trying to save the file"
-msgstr ""
+msgstr "حدث خطأ أثناء محاولة حفظ الملف"
 
 #: MiscResources.resx$EmailError$Message
 msgid "An error occurred while trying to send an email"
-msgstr ""
+msgstr "حدث خطأ أثناء محاولة إرسال بريد إلكتروني"
 
 #: MiscResources.resx$UnknownDriverError$Message
 msgid "An error occurred with the scanning driver"
-msgstr ""
+msgstr "حدث خطأ مع تعريف المسح الضوئي."
 
 #: MiscResources.resx$BatchError$Message
 msgid "An unknown error ocurred during the batch scan"
@@ -157,7 +162,7 @@ msgstr ""
 
 #: MiscResources.resx$OcrUpdateAvailable$Message
 msgid "An update to OCR is available"
-msgstr ""
+msgstr "هناك تحديث متاح للـ OCR"
 
 #: FAdvancedScanSettings.resx$cbBrightnessContrastAfterScan.Text$Message
 msgid "Apply brightness/contrast after scan"
@@ -168,11 +173,11 @@ msgstr ""
 #: FRotate.resx$checkboxApplyToSelected.Text$Message
 #: FBrightness.resx$checkboxApplyToSelected.Text$Message
 msgid "Apply to all {0} selected images"
-msgstr ""
+msgstr "تطبيق على كل الصور المحددة وعددها {0}"
 
 #: MiscResources.resx$ConfirmClearItems$Message
 msgid "Are you sure you want to clear {0} item(s)?"
-msgstr ""
+msgstr "أمتأكد من أنك تريد مسح {0} عنصر؟"
 
 #: MiscResources.resx$ConfirmDelete$Message
 msgid "Are you sure you want to delete "{0}"?"
@@ -180,11 +185,11 @@ msgstr ""
 
 #: MiscResources.resx$ConfirmDeleteSingleProfile$Message
 msgid "Are you sure you want to delete the profile {0}?"
-msgstr ""
+msgstr "أمتأكدٌ أنّك تريد حذف الملف الشخصي هذا {0}؟"
 
 #: MiscResources.resx$ConfirmDeleteItems$Message
 msgid "Are you sure you want to delete {0} item(s)?"
-msgstr ""
+msgstr "أمتأكد أنك ترغب في حذف هذا/هذه {0} العنصر/العناصر؟"
 
 #: MiscResources.resx$ConfirmDeleteMultipleProfiles$Message
 msgid "Are you sure you want to delete {0} profiles?"
@@ -196,16 +201,16 @@ msgstr ""
 
 #: FEmailSettings.resx$label1.Text$Message
 msgid "Attachment Name"
-msgstr ""
+msgstr "اسم المرفق"
 
 #: FPdfSettings.resx$label3.Text$Message
 msgid "Author"
-msgstr ""
+msgstr "المؤلف"
 
 #: FEditProfile.resx$linkAutoSaveSettings.Text$Message
 #: FAutoSaveSettings.resx$$this.Text$Message
 msgid "Auto Save Settings"
-msgstr ""
+msgstr "إعدادات الحفظ التلقائي"
 
 #: FPlaceholders.resx$label13.Text$Message
 msgid "Auto-incrementing number (1 digit)"
@@ -254,7 +259,7 @@ msgstr ""
 
 #: FEditProfile.resx$label3.Text$Message
 msgid "Bit depth"
-msgstr ""
+msgstr "عمق البت"
 
 #: MiscResources.resx$FileTypeBmp$Message
 msgid "Bitmap Files (*.bmp)"
@@ -262,18 +267,18 @@ msgstr ""
 
 #: SettingsResources.resx$BitDepth_1BlackAndWhite$Message
 msgid "Black & White"
-msgstr ""
+msgstr "أبيض و أسود"
 
 #: FAdvancedScanSettings.resx$groupBox3.Text$Message
 msgid "Blank Pages"
-msgstr ""
+msgstr "صفحات فارغة"
 
 #: FDesktop.resx$tsBrightness.Text$Message
 #: FViewer.resx$tsBrightness.Text$Message
 #: FBrightness.resx$$this.Text$Message
 #: FEditProfile.resx$label6.Text$Message
 msgid "Brightness"
-msgstr ""
+msgstr "السطوع"
 
 #: FImageSettings.resx$btnCancel.Text$Message
 #: FOcrSetup.resx$btnCancel.Text$Message
@@ -297,11 +302,11 @@ msgstr ""
 #: FBrightness.resx$btnCancel.Text$Message
 #: FBatchScan.resx$btnCancel.Text$Message
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
 #: MiscResources.resx$BatchStatusCancelling$Message
 msgid "Cancelling"
-msgstr ""
+msgstr "جارِ الإلغاء"
 
 #: SettingsResources.resx$HorizontalAlign_Center$Message
 msgid "Center"
@@ -322,42 +327,42 @@ msgstr ""
 
 #: FAutoSaveSettings.resx$cbClearAfterSave.Text$Message
 msgid "Clear images after saving"
-msgstr ""
+msgstr "مسح الصور بعد الحفظ"
 
 #: MiscResources.resx$Close$Message
 msgid "Close"
-msgstr ""
+msgstr "إغلاق"
 
 #: FAdvancedScanSettings.resx$groupBox2.Text$Message
 msgid "Compatibility"
-msgstr ""
+msgstr "التوافق"
 
 #: FDesktop.resx$tsContrast.Text$Message
 #: FViewer.resx$tsContrast.Text$Message
 #: FContrast.resx$$this.Text$Message
 #: FEditProfile.resx$label7.Text$Message
 msgid "Contrast"
-msgstr ""
+msgstr "التباين"
 
 #: FDesktop.resx$ctxCopy.Text$Message
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 #: MiscResources.resx$CopyProgress$Message
 msgid "Copy Progress"
-msgstr ""
+msgstr "تقدم النسخ"
 
 #: MiscResources.resx$Copying$Message
 msgid "Copying"
-msgstr ""
+msgstr "ينسخ"
 
 #: FAbout.resx$labelCopyright.Text$Message
 msgid "Copyright © 2009 Pavel Sorejs"
-msgstr ""
+msgstr "الحقوق محفوظة 2009© باڤِل سورِجس"
 
 #: FAbout.resx__1$labelCopyright.Text$Message
 msgid "Copyright © 2012 Michael Adams"
-msgstr ""
+msgstr "الحقوق محفوظة 2012© مايكل آدامز"
 
 #: FAbout.resx__3$labelCopyright.Text$Message
 msgid "Copyright © 2012-2015 Ben Olden-Cooligan"
@@ -392,7 +397,7 @@ msgstr ""
 #: FDesktop.resx$tsCustomRotation.Text$Message
 #: FViewer.resx$tsCustomRotation.Text$Message
 msgid "Custom Rotation"
-msgstr ""
+msgstr "دوران مخصص"
 
 #: FPlaceholders.resx$label6.Text$Message
 msgid "Day (01-31)"
@@ -400,12 +405,12 @@ msgstr ""
 
 #: SettingsResources.resx$TwainImpl_Default$Message
 msgid "Default"
-msgstr ""
+msgstr "الإفتراضي"
 
 #: FPdfSettings.resx$label1.Text$Message
 #: FImageSettings.resx$label1.Text$Message
 msgid "Default File Path"
-msgstr ""
+msgstr "مسار الملف الإفتراضي"
 
 #: FDesktop.resx$tsDeinterleave.Text$Message
 msgid "Deinterleave"
@@ -419,19 +424,19 @@ msgstr ""
 #: MiscResources.resx$Delete$Message
 #: FDesktop.resx$ctxDelete.Text$Message
 msgid "Delete"
-msgstr ""
+msgstr "حدف"
 
 #: FEditProfile.resx$label1.Text$Message
 msgid "Device"
-msgstr ""
+msgstr "الجهاز"
 
 #: FPageSize.resx$label2.Text$Message
 msgid "Dimensions"
-msgstr ""
+msgstr "الأبعاد"
 
 #: FEditProfile.resx$label8.Text$Message
 msgid "Display name"
-msgstr ""
+msgstr "اسم العرض"
 
 #: MiscResources.resx$EnableAutoUpdates$Message
 msgid "Do you want NAPS2 to automatically check for updates?"
@@ -481,19 +486,19 @@ msgstr ""
 #: FDesktop.resx$tsEmailSettings.Text$Message
 #: FEmailSettings.resx$$this.Text$Message
 msgid "Email Settings"
-msgstr ""
+msgstr "إعدادات البريد الإلكتروني"
 
 #: FEditProfile.resx$cbAutoSave.Text$Message
 msgid "Enable Auto Save"
-msgstr ""
+msgstr "تمكين الحفظ التلقائي"
 
 #: FPdfSettings.resx$cbEncryptPdf.Text$Message
 msgid "Encrypt PDF"
-msgstr ""
+msgstr "تشفير الـ PDF"
 
 #: FPdfSettings.resx$groupProtection.Text$Message
 msgid "Encryption"
-msgstr ""
+msgstr "التشفير"
 
 #: MiscResources.resx$FileTypeEmf$Message
 msgid "Enhanced Windows MetaFile (*.emf)"
@@ -501,7 +506,7 @@ msgstr ""
 
 #: MiscResources.resx$Error$Message
 msgid "Error"
-msgstr ""
+msgstr "خطأ"
 
 #: MiscResources.resx$EstimatedDownloadSize$Message
 #: FOcrLanguageDownload.resx$labelSizeEstimate.Text$Message
