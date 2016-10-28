@@ -3,85 +3,86 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-19 21:51+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-10-08 19:22+0000\n"
+"Last-Translator: Dejan <dejan@kruhek.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Pootle 2.5.1.3\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
+"X-POOTLE-MTIME: 1475954579.000000\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
-msgstr ""
+msgstr "100 dpi"
 
 #: SettingsResources.resx$Dpi_1200$Message
 msgid "1200 dpi"
-msgstr ""
+msgstr "1200 dpi"
 
 #: SettingsResources.resx$Dpi_150$Message
 msgid "150 dpi"
-msgstr ""
+msgstr "150 dpi"
 
 #: SettingsResources.resx$Dpi_200$Message
 msgid "200 dpi"
-msgstr ""
+msgstr "200 dpi"
 
 #: SettingsResources.resx$BitDepth_24Color$Message
 msgid "24-bit Color"
-msgstr ""
+msgstr "24-bit Color"
 
 #: SettingsResources.resx$Dpi_300$Message
 msgid "300 dpi"
-msgstr ""
+msgstr "300 dpi"
 
 #: SettingsResources.resx$Dpi_400$Message
 msgid "400 dpi"
-msgstr ""
+msgstr "400 dpi"
 
 #: SettingsResources.resx$Dpi_600$Message
 msgid "600 dpi"
-msgstr ""
+msgstr "600 dpi"
 
 #: SettingsResources.resx$Dpi_800$Message
 msgid "800 dpi"
-msgstr ""
+msgstr "800 dpi"
 
 #: MiscResources.resx$UpdateNow$Message
 #: FUpdate.resx$lblPrompt.Text$Message
 msgid "A newer version of NAPS2 is available. Do you want to update now?"
-msgstr ""
+msgstr "Na voljo je nova verzija NAPS2. Ali želite posodobitev zdaj?"
 
 #: SettingsResources.resx$PageSize_A3$Message
 msgid "A3 (297x420 mm)"
-msgstr ""
+msgstr "A3 (297x420 mm)"
 
 #: SettingsResources.resx$PageSize_A4$Message
 msgid "A4 (210x297 mm)"
-msgstr ""
+msgstr "A4 (210x297 mm)"
 
 #: SettingsResources.resx$PageSize_A5$Message
 msgid "A5 (148x210 mm)"
-msgstr ""
+msgstr "A5 (148x210 mm)"
 
 #: FDesktop.resx$tsAbout.Text$Message
 #: FAbout.resx$$this.Text$Message
 msgid "About"
-msgstr ""
+msgstr "Vizitka"
 
 #: FScanProgress.resx$$this.Text$Message
 msgid "Acquiring data"
-msgstr ""
+msgstr "Zajem podatkov"
 
 #: FEditProfile.resx$btnAdvanced.Text$Message
 msgid "Advanced"
-msgstr ""
+msgstr "Napredne"
 
 #: FAdvancedScanSettings.resx$$this.Text$Message
 msgid "Advanced Profile Settings"
-msgstr ""
+msgstr "Napredne nastavitve profila"
 
 #: FDesktop.resx$tsSaveImagesAll.Text$Message
 #: FDesktop.resx$tsReverseAll.Text$Message
@@ -89,7 +90,7 @@ msgstr ""
 #: FDesktop.resx$tsSavePDFAll.Text$Message
 #: MiscResources.resx$AllCount$Message
 msgid "All ({0})"
-msgstr ""
+msgstr "Vse ({0})"
 
 #: MiscResources.resx$FileTypeAllFiles$Message
 msgid "All Files"
@@ -137,38 +138,38 @@ msgstr ""
 
 #: MiscResources.resx$AutoSaveError$Message
 msgid "An error occurred when trying to auto save"
-msgstr ""
+msgstr "Prišlo je do napake pri avtomatskem shranjevanju"
 
 #: MiscResources.resx$ErrorSaving$Message
 msgid "An error occurred when trying to save the file"
-msgstr ""
+msgstr "Prišlo je do napake pri shranjevanju datoteke"
 
 #: MiscResources.resx$EmailError$Message
 msgid "An error occurred while trying to send an email"
-msgstr ""
+msgstr "Prišlo je do napake med pošiljanjem pošte"
 
 #: MiscResources.resx$UnknownDriverError$Message
 msgid "An error occurred with the scanning driver"
-msgstr ""
+msgstr "Prišlo je do napake v gonilniku optičnega branja"
 
 #: MiscResources.resx$BatchError$Message
 msgid "An unknown error ocurred during the batch scan"
-msgstr ""
+msgstr "Prišlo je do neznane napake med serijskim optičnim branjem"
 
 #: MiscResources.resx$OcrUpdateAvailable$Message
 msgid "An update to OCR is available"
-msgstr ""
+msgstr "Na voljo je posodobitev OCR"
 
 #: FAdvancedScanSettings.resx$cbBrightnessContrastAfterScan.Text$Message
 msgid "Apply brightness/contrast after scan"
-msgstr ""
+msgstr "Uporabi svetlost/kontrast po branju"
 
 #: FContrast.resx$checkboxApplyToSelected.Text$Message
 #: FRotate.resx$checkboxApplyToSelected.Text$Message
 #: FCrop.resx$checkboxApplyToSelected.Text$Message
 #: FBrightness.resx$checkboxApplyToSelected.Text$Message
 msgid "Apply to all {0} selected images"
-msgstr ""
+msgstr "Uporabi na vseh {0} izbranih slikah"
 
 #: MiscResources.resx$ConfirmClearItems$Message
 msgid "Are you sure you want to clear {0} item(s)?"
@@ -205,40 +206,40 @@ msgstr ""
 #: FEditProfile.resx$linkAutoSaveSettings.Text$Message
 #: FAutoSaveSettings.resx$$this.Text$Message
 msgid "Auto Save Settings"
-msgstr ""
+msgstr "Nastavitve samodejnega shranjevanja"
 
 #: FPlaceholders.resx$label13.Text$Message
 msgid "Auto-incrementing number (1 digit)"
-msgstr ""
+msgstr "Samo-naraščajoče število (1 cifra)"
 
 #: FPlaceholders.resx$label12.Text$Message
 msgid "Auto-incrementing number (2 digits)"
-msgstr ""
+msgstr "Samo-naraščajoče število (2 cifri)"
 
 #: FPlaceholders.resx$label11.Text$Message
 msgid "Auto-incrementing number (3 digits)"
-msgstr ""
+msgstr "Samo-naraščajoče število (3 cifre)"
 
 #: FPlaceholders.resx$label10.Text$Message
 msgid "Auto-incrementing number (4 digits)"
-msgstr ""
+msgstr "Samo-naraščajoče število (4 cifre)"
 
 #: MiscResources.resx$AutoUpdates$Message
 msgid "Automatic Updates"
-msgstr ""
+msgstr "Samodejne nadgradnje"
 
 #: SettingsResources.resx$PageSize_B4$Message
 msgid "B4 (250x353 mm)"
-msgstr ""
+msgstr "B4 (250x353 mm)"
 
 #: SettingsResources.resx$PageSize_B5$Message
 msgid "B5 (176x250 mm)"
-msgstr ""
+msgstr "B5 (176x250 mm)"
 
 #: FDesktop.resx$tsBatchScan.Text$Message
 #: FBatchScan.resx$$this.Text$Message
 msgid "Batch Scan"
-msgstr ""
+msgstr "Serijsko branje"
 
 #: MiscResources.resx$BatchStatusCancelled$Message
 msgid "Batch cancelled"
@@ -301,43 +302,43 @@ msgstr ""
 
 #: MiscResources.resx$BatchStatusCancelling$Message
 msgid "Cancelling"
-msgstr ""
+msgstr "Prekinitev"
 
 #: SettingsResources.resx$HorizontalAlign_Center$Message
 msgid "Center"
-msgstr ""
+msgstr "Sredina"
 
 #: MiscResources.resx$ChooseProfile$Message
 msgid "Choose Profile"
-msgstr ""
+msgstr "Izberi profil"
 
 #: FEditProfile.resx$btnChooseDevice.Text$Message
 msgid "Choose device"
-msgstr ""
+msgstr "Izberi napravo"
 
 #: FDesktop.resx$tsClear.Text$Message
 #: MiscResources.resx$Clear$Message
 msgid "Clear"
-msgstr ""
+msgstr "Počisti"
 
 #: FAutoSaveSettings.resx$cbClearAfterSave.Text$Message
 msgid "Clear images after saving"
-msgstr ""
+msgstr "Počisti slike po shranjevanju"
 
 #: MiscResources.resx$Close$Message
 msgid "Close"
-msgstr ""
+msgstr "Zapri"
 
 #: FAdvancedScanSettings.resx$groupBox2.Text$Message
 msgid "Compatibility"
-msgstr ""
+msgstr "Združljivost"
 
 #: FDesktop.resx$tsContrast.Text$Message
 #: FViewer.resx$tsContrast.Text$Message
 #: FContrast.resx$$this.Text$Message
 #: FEditProfile.resx$label7.Text$Message
 msgid "Contrast"
-msgstr ""
+msgstr "Kontrast"
 
 #: FProfiles.resx$ctxCopy.Text$Message
 #: FDesktop.resx$ctxCopy.Text$Message
@@ -380,37 +381,37 @@ msgstr ""
 
 #: SettingsResources.resx$PageSize_Custom$Message
 msgid "Custom"
-msgstr ""
+msgstr "Po meri"
 
 #: MiscResources.resx$CustomPageSizeFormat$Message
 msgid "Custom ({0}x{1} {2})"
-msgstr ""
+msgstr "Po meri ({0}x{1} {2})"
 
 #: FPageSize.resx$$this.Text$Message
 msgid "Custom Page Size"
-msgstr ""
+msgstr "Velikost strani po meri"
 
 #: FDesktop.resx$tsCustomRotation.Text$Message
 #: FViewer.resx$tsCustomRotation.Text$Message
 msgid "Custom Rotation"
-msgstr ""
+msgstr "Zasuk po meri"
 
 #: FPlaceholders.resx$label6.Text$Message
 msgid "Day (01-31)"
-msgstr ""
+msgstr "Dan (01-31)"
 
 #: SettingsResources.resx$TwainImpl_Default$Message
 msgid "Default"
-msgstr ""
+msgstr "Privzeto"
 
 #: FPdfSettings.resx$label1.Text$Message
 #: FImageSettings.resx$label1.Text$Message
 msgid "Default File Path"
-msgstr ""
+msgstr "Privzeta pot"
 
 #: FDesktop.resx$tsDeinterleave.Text$Message
 msgid "Deinterleave"
-msgstr ""
+msgstr "Razpletanje"
 
 #: FRecover.resx$btnDelete.Text$Message
 #: FProfiles.resx$btnDelete.Text$Message
@@ -420,116 +421,118 @@ msgstr ""
 #: FProfiles.resx$ctxDelete.Text$Message
 #: FDesktop.resx$ctxDelete.Text$Message
 msgid "Delete"
-msgstr ""
+msgstr "Zbriši"
 
 #: FEditProfile.resx$label1.Text$Message
 msgid "Device"
-msgstr ""
+msgstr "Naprava"
 
 #: FPageSize.resx$label2.Text$Message
 msgid "Dimensions"
-msgstr ""
+msgstr "Velikosti"
 
 #: FEditProfile.resx$label8.Text$Message
 msgid "Display name"
-msgstr ""
+msgstr "Ime profila"
 
 #: MiscResources.resx$EnableAutoUpdates$Message
 msgid "Do you want NAPS2 to automatically check for updates?"
-msgstr ""
+msgstr "Želite da NAPS2 samodejno preverja za nadgradnje?"
 
 #: FProfiles.resx$btnDone.Text$Message
 #: FBatchPrompt.resx$btnDone.Text$Message
 msgid "Done"
-msgstr ""
+msgstr "Končaj"
 
 #: FUpdate.resx$btnDownload.Text$Message
 #: FOcrLanguageDownload.resx$btnDownload.Text$Message
 #: MiscResources.resx$Download$Message
 msgid "Download"
-msgstr ""
+msgstr "Prenesi"
 
 #: MiscResources.resx$DownloadError$Message
 msgid "Download Error"
-msgstr ""
+msgstr "Napaka med prenosom"
 
 #: FDownloadProgress.resx$$this.Text$Message
 msgid "Download Progress"
-msgstr ""
+msgstr "Prenos v teku"
 
 #: FUpdate.resx$btnInstall.Text$Message
 #: MiscResources.resx$DownloadAndInstall$Message
+#, fuzzy
 msgid "Download and Install"
-msgstr ""
+msgstr "Prenesi in namesti"
 
 #: SettingsResources.resx$Source_Duplex$Message
+#, fuzzy
 msgid "Duplex"
-msgstr ""
+msgstr "Duplex"
 
 #: FProfiles.resx$btnEdit.Text$Message
 #: FProfiles.resx$ctxEdit.Text$Message
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 #: FDesktop.resx$tsdEmailPDF.Text$Message
 msgid "Email PDF"
-msgstr ""
+msgstr "Pošlji PDF"
 
 #: MiscResources.resx$EmailPdfProgress$Message
 msgid "Email PDF Progress"
-msgstr ""
+msgstr "Pošiljanje PDF v teku"
 
 #: FDesktop.resx$tsEmailSettings.Text$Message
 #: FEmailSettings.resx$$this.Text$Message
 msgid "Email Settings"
-msgstr ""
+msgstr "Nastavitve e-pošte"
 
 #: FEditProfile.resx$cbAutoSave.Text$Message
 msgid "Enable Auto Save"
-msgstr ""
+msgstr "Omogoči samodejno shranjevanje"
 
 #: FPdfSettings.resx$cbEncryptPdf.Text$Message
 msgid "Encrypt PDF"
-msgstr ""
+msgstr "Šifriraj PDF"
 
 #: FPdfSettings.resx$groupProtection.Text$Message
 msgid "Encryption"
-msgstr ""
+msgstr "Šifriranje"
 
 #: MiscResources.resx$FileTypeEmf$Message
 msgid "Enhanced Windows MetaFile (*.emf)"
-msgstr ""
+msgstr "Enhanced Windows MetaFile (*.emf)"
 
 #: MiscResources.resx$Error$Message
 #: FError.resx$$this.Text$Message
 msgid "Error"
-msgstr ""
+msgstr "Napaka"
 
 #: MiscResources.resx$EstimatedDownloadSize$Message
 #: FOcrLanguageDownload.resx$labelSizeEstimate.Text$Message
 msgid "Estimated download size: {0} MB"
-msgstr ""
+msgstr "Ocenjena velikost prenosa: {0} MB"
 
 #: MiscResources.resx$FileTypeExif$Message
 msgid "Exchangeable Image File (*.exif)"
-msgstr ""
+msgstr "Exchangeable Image File (*.exif)"
 
 #: FAdvancedScanSettings.resx$cbExcludeBlankPages.Text$Message
 msgid "Exclude blank pages"
-msgstr ""
+msgstr "Izpusti prazne strani"
 
 #: SettingsResources.resx$Source_Feeder$Message
 msgid "Feeder"
-msgstr ""
+msgstr "Podajalec"
 
 #: FPlaceholders.resx$label1.Text$Message
 msgid "File Name"
-msgstr ""
+msgstr "Ime datoteke"
 
 #: FBatchScan.resx$lblFilePath.Text$Message
 #: FAutoSaveSettings.resx$lblFilePath.Text$Message
 msgid "File path"
-msgstr ""
+msgstr "Pot datoteke"
 
 #: FDesktop.resx$tsFlip.Text$Message
 #: FViewer.resx$tsFlip.Text$Message
@@ -541,224 +544,228 @@ msgid "Flip duplexed pages"
 msgstr ""
 
 #: FImageSettings.resx$lblWarning.Text$Message
+#, fuzzy
 msgid "For high JPEG qualities (80+), use the Maximum Quality profile option for best results"
 msgstr ""
+"Za najboljše rezultate pri visoki JPEG kvaliteti (80+), uporabite opcijo "
+"Maximum Quality profil."
 
 #: FAdvancedScanSettings.resx$cbForcePageSize.Text$Message
+#, fuzzy
 msgid "Force matching page size"
-msgstr ""
+msgstr "Vsili ujemanje velikosti strani"
 
 #: MiscResources.resx$FileTypeGif$Message
 msgid "GIF File (*.gif)"
-msgstr ""
+msgstr "GIF File (*.gif)"
 
 #: FOcrSetup.resx$linkGetLanguages.Text$Message
 msgid "Get more languages"
-msgstr ""
+msgstr "Pridobi več jezikov"
 
 #: SettingsResources.resx$Source_Glass$Message
 msgid "Glass"
-msgstr ""
+msgstr "Steklo"
 
 #: SettingsResources.resx$BitDepth_8Grayscale$Message
 msgid "Grayscale"
-msgstr ""
+msgstr "Sivine"
 
 #: FEditProfile.resx$label9.Text$Message
 msgid "Horizontal align"
-msgstr ""
+msgstr "Horizontalna poravnava"
 
 #: FPlaceholders.resx$label7.Text$Message
 msgid "Hour (0-23)"
-msgstr ""
+msgstr "Ura (0-23)"
 
 #: FAbout.resx$label1.Text$Message
 msgid "Icons from"
-msgstr ""
+msgstr "Ikone od"
 
 #: FDesktop.resx$tsdImage.Text$Message
 msgid "Image"
-msgstr ""
+msgstr "Slika"
 
 #: MiscResources.resx$FileTypeImageFiles$Message
 msgid "Image Files"
-msgstr ""
+msgstr "Slikovne datoteke"
 
 #: FAdvancedScanSettings.resx$groupBox1.Text$Message
 msgid "Image Quality"
-msgstr ""
+msgstr "Kvaliteta slike"
 
 #: FDesktop.resx$tsImageSettings.Text$Message
 #: FImageSettings.resx$$this.Text$Message
 msgid "Image Settings"
-msgstr ""
+msgstr "Nastavitve slike"
 
 #: MiscResources.resx$ImageSaved$Message
 msgid "Image saved"
-msgstr ""
+msgstr "Slika shranjena"
 
 #: FDesktop.resx$tsImport.Text$Message
 msgid "Import"
-msgstr ""
+msgstr "Uvozi"
 
 #: MiscResources.resx$ImportProgress$Message
 msgid "Import Progress"
-msgstr ""
+msgstr "Uvoz v teku"
 
 #: MiscResources.resx$Importing$Message
 msgid "Importing"
-msgstr ""
+msgstr "Uvažanje"
 
 #: MiscResources.resx$ImportingFormat$Message
 msgid "Importing {0}"
-msgstr ""
+msgstr "Uvažanje {0}"
 
 #: MiscResources.resx$InstallComplete$Message
 msgid "Installation Complete"
-msgstr ""
+msgstr "Namestitev zaključena"
 
 #: MiscResources.resx$InstallFailedTitle$Message
 msgid "Installation Failed"
-msgstr ""
+msgstr "Namestitev spodletela"
 
 #: MiscResources.resx$InstallCompletePromptRestart$Message
 msgid "Installation complete. Do you want to restart NAPS2 now?"
-msgstr ""
+msgstr "Namestitev zaključena. Želite ponovno zagnati NAPS2?"
 
 #: MiscResources.resx$InstallFailed$Message
 msgid "Installation failed"
-msgstr ""
+msgstr "Namestitev spodletela"
 
 #: FDesktop.resx$tsInterleave.Text$Message
 msgid "Interleave"
-msgstr ""
+msgstr "Prepletanje"
 
 #: MiscResources.resx$FileTypeJpeg$Message
 msgid "JPEG File (*.jpg, *.jpeg)"
-msgstr ""
+msgstr "JPEG File (*.jpg, *.jpeg)"
 
 #: FImageSettings.resx$label2.Text$Message
 msgid "Jpeg Quality"
-msgstr ""
+msgstr "Jpeg kvaliteta"
 
 #: FPdfSettings.resx$label6.Text$Message
 msgid "Keywords"
-msgstr ""
+msgstr "Ključne besede"
 
 #: FDesktop.resx$toolStripDropDownButton1.Text$Message
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 #: SettingsResources.resx$HorizontalAlign_Left$Message
 msgid "Left"
-msgstr ""
+msgstr "Levo"
 
 #: SettingsResources.resx$TwainImpl_Legacy$Message
 msgid "Legacy (native UI only)"
-msgstr ""
+msgstr "Opuščeno (samo osnovni UI)"
 
 #: FBatchScan.resx$rdLoadIntoNaps2.Text$Message
 msgid "Load images into NAPS2"
-msgstr ""
+msgstr "Naloži slike v NAPS2"
 
 #: FDesktop.resx$tStrip.Text$Message
 msgid "Main toolbar"
-msgstr ""
+msgstr "Glavna orodna vrstica"
 
 #: FOcrSetup.resx$checkBoxEnableOcr.Text$Message
 msgid "Make PDFs searchable using OCR"
-msgstr ""
+msgstr "Naredi PDF z možnostjo iskanja z uporabo OCR"
 
 #: FAdvancedScanSettings.resx$cbHighQuality.Text$Message
 msgid "Maximum quality (large files)"
-msgstr ""
+msgstr "Maximum quality (velika datoteka)"
 
 #: FPdfSettings.resx$groupMetadata.Text$Message
 msgid "Metadata"
-msgstr ""
+msgstr "Meta podatki"
 
 #: FPlaceholders.resx$label8.Text$Message
 msgid "Minute (00-59)"
-msgstr ""
+msgstr "Minute (00-59)"
 
 #: FPlaceholders.resx$label5.Text$Message
 msgid "Month (01-12)"
-msgstr ""
+msgstr "Mesec (01-12)"
 
 #: FBatchScan.resx$linkPatchCodeInfo.Text$Message
 #: FAutoSaveSettings.resx$linkPatchCodeInfo.Text$Message
 msgid "More info"
-msgstr ""
+msgstr "Več informacij"
 
 #: FDesktop.resx$tsMove.TextSecond$Message
 msgid "Move Down"
-msgstr ""
+msgstr "Premakni dol"
 
 #: FDesktop.resx$tsMove.TextFirst$Message
 msgid "Move Up"
-msgstr ""
+msgstr "Premakni gor"
 
 #: FBatchScan.resx$rdMultipleScansDelay.Text$Message
 msgid "Multiple scans (fixed delay between scans)"
-msgstr ""
+msgstr "Več branj (določen zamik med posameznimi branji)"
 
 #: FBatchScan.resx$rdMultipleScansPrompt.Text$Message
 msgid "Multiple scans (prompt between scans)"
-msgstr ""
+msgstr "Več branj (poziv med posameznimi branji)"
 
 #: MiscResources.resx$NAPS2$Message
 msgid "NAPS2"
-msgstr ""
+msgstr "NAPS2"
 
 #: FPageSize.resx$label1.Text$Message
 msgid "Name (optional)"
-msgstr ""
+msgstr "Ime (neobvezno)"
 
 #: MiscResources.resx$NameMissing$Message
 msgid "Name missing"
-msgstr ""
+msgstr "Manjka ime"
 
 #: FProfiles.resx$btnAdd.Text$Message
 msgid "New"
-msgstr ""
+msgstr "Novo"
 
 #: FDesktop.resx$tsNewProfile.Text$Message
 msgid "New Profile"
-msgstr ""
+msgstr "Nov Profil"
 
 #: FViewer.resx$tsNext.Text$Message
 msgid "Next"
-msgstr ""
+msgstr "Naslednji"
 
 #: FBatchPrompt.resx$$this.Text$Message
 msgid "Next Scan"
-msgstr ""
+msgstr "Naslednje branje"
 
 #: MiscResources.resx$NoDeviceSelected$Message
 msgid "No device selected"
-msgstr ""
+msgstr "Naprava ni izbrana"
 
 #: MiscResources.resx$NoPagesInFeeder$Message
 msgid "No pages are in the feeder"
-msgstr ""
+msgstr "Ni listov v podajalniku"
 
 #: MiscResources.resx$NoDevicesFound$Message
 msgid "No scanning device was found"
-msgstr ""
+msgstr "Ne najdem nobene naprave za optično branje"
 
 #: FDesktop.resx$$this.Text$Message
 msgid "Not Another PDF Scanner 2"
-msgstr ""
+msgstr "Not Another PDF Scanner 2"
 
 #: FUpdate.resx$btnCancel.Text$Message
 #: FRecover.resx$btnCancel.Text$Message
 #: MiscResources.resx$NotNow$Message
 msgid "Not Now"
-msgstr ""
+msgstr "Ne zdaj"
 
 #: FBatchScan.resx$lblNumberOfScans.Text$Message
 msgid "Number of scans"
-msgstr ""
+msgstr "Število branj"
 
 #: FDesktop.resx$tsOcr.Text$Message
 msgid "OCR"
