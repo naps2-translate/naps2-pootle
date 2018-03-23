@@ -3,88 +3,90 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-19 21:51+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-03-21 12:40+0000\n"
+"Last-Translator: CJay <chamismail@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: si\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Pootle 2.5.1.3\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
+"X-POOTLE-MTIME: 1521636001.000000\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 100"
 
 #: SettingsResources.resx$Dpi_1200$Message
 msgid "1200 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 1200"
 
 #: SettingsResources.resx$Dpi_150$Message
 msgid "150 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 150"
 
 #: SettingsResources.resx$Dpi_200$Message
 msgid "200 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 200"
 
 #: SettingsResources.resx$BitDepth_24Color$Message
 msgid "24-bit Color"
-msgstr ""
+msgstr "බිටු 24 වර්ණ "
 
 #: SettingsResources.resx$Dpi_300$Message
 msgid "300 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 300"
 
 #: SettingsResources.resx$Dpi_400$Message
 msgid "400 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 400"
 
 #: SettingsResources.resx$Dpi_600$Message
 msgid "600 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 600"
 
 #: SettingsResources.resx$Dpi_800$Message
 msgid "800 dpi"
-msgstr ""
+msgstr "අඟලට තිත් 800"
 
 #: FUpdate.resx$lblPrompt.Text$Message
 #: MiscResources.resx$UpdateNow$Message
 msgid "A newer version of NAPS2 is available. Do you want to update now?"
-msgstr ""
+msgstr "NAPS2 හි නව නිකුතුවක් ඇත. දැන්ම යාවත් කිරීමට අවශ්‍යද?"
 
 #: SettingsResources.resx$PageSize_A3$Message
 msgid "A3 (297x420 mm)"
-msgstr ""
+msgstr "A3 (297x420 mm)"
 
 #: SettingsResources.resx$PageSize_A4$Message
 msgid "A4 (210x297 mm)"
-msgstr ""
+msgstr "A4 (210x297 mm)"
 
 #: SettingsResources.resx$PageSize_A5$Message
 msgid "A5 (148x210 mm)"
-msgstr ""
+msgstr "A5 (148x210 mm)"
 
+# the direct translation is "පිලිබඳ", But I guess you meant by about is "about the software". So I gave a suitable translation
 #: FDesktop.resx$tsAbout.Text$Message
 #: FAbout.resx$$this.Text$Message
 #: FAbout.resx$$Message
 msgid "About"
-msgstr ""
+msgstr "මෘදුකාංගය පිලිබඳ තොරතුරු "
 
 #: FScanProgress.resx$$this.Text$Message
 #: FScanProgress.resx$$Message
 msgid "Acquiring data"
-msgstr ""
+msgstr "දත්ත ලබාගනිමින් පවතී"
 
 #: FEditProfile.resx$btnAdvanced.Text$Message
 msgid "Advanced"
-msgstr ""
+msgstr "ප්‍රගත  "
 
 #: FAdvancedScanSettings.resx$$this.Text$Message
 #: FAdvancedScanSettings.resx$$Message
 msgid "Advanced Profile Settings"
-msgstr ""
+msgstr "ප්‍රගත පැතිකඩ සැකසුම් "
 
 #: FDesktop.resx$tsEmailPDFAll.Text$Message
 #: FDesktop.resx$tsSaveImagesAll.Text$Message
@@ -92,43 +94,43 @@ msgstr ""
 #: FDesktop.resx$tsSavePDFAll.Text$Message
 #: MiscResources.resx$AllCount$Message
 msgid "All ({0})"
-msgstr ""
+msgstr "සියල්ල ({0})"
 
 #: MiscResources.resx$FileTypeAllFiles$Message
 msgid "All Files"
-msgstr ""
+msgstr "සියලුම ගොනු"
 
 #: FPdfSettings.resx$cbAllowAnnotations.Text$Message
 msgid "Allow Annotations"
-msgstr ""
+msgstr "අනුසටහන් සඳහා ඉඩ ලබාදේ"
 
 #: FPdfSettings.resx$cbAllowContentCopying.Text$Message
 msgid "Allow Content Copying"
-msgstr ""
+msgstr "අන්තර්ගතය පිටපත් කිරීමට ඉඩ ලබාදේ"
 
 #: FPdfSettings.resx$cbAllowContentCopyingForAccessibility.Text$Message
 msgid "Allow Content Copying for Accessibility"
-msgstr ""
+msgstr "ප්‍රවේශය සඳහා අන්තර්ගතය පිටපත් කිරීමට ඉඩ ලබාදේ"
 
 #: FPdfSettings.resx$cbAllowDocumentAssembly.Text$Message
 msgid "Allow Document Assembly"
-msgstr ""
+msgstr "ලේඛන එකලස් කිරීමට ඉඩ ලබාදේ"
 
 #: FPdfSettings.resx$cbAllowDocumentModification.Text$Message
 msgid "Allow Document Modification"
-msgstr ""
+msgstr "ලේඛන සංශෝධනය කිරීමට ඉඩ ලබාදේ"
 
 #: FPdfSettings.resx$cbAllowFormFilling.Text$Message
 msgid "Allow Form Filling"
-msgstr ""
+msgstr "ෆෝරම පිරවීමට ඉඩ ලබාදේ"
 
 #: FPdfSettings.resx$cbAllowFullQualityPrinting.Text$Message
 msgid "Allow Full Quality Printing"
-msgstr ""
+msgstr "පුර්ණ ගුණාත්මයෙන් යුතුව මුද්‍රණය අනුමත කරයි "
 
 #: FPdfSettings.resx$cbAllowPrinting.Text$Message
 msgid "Allow Printing"
-msgstr ""
+msgstr "මුද්‍රණයට ඉඩදේ "
 
 #: FDesktop.resx$tsAltDeinterleave.Text$Message
 msgid "Alternate Deinterleave"
@@ -136,39 +138,40 @@ msgstr ""
 
 #: FDesktop.resx$tsAltInterleave.Text$Message
 msgid "Alternate Interleave"
-msgstr ""
+msgstr "මාරුවෙන් මාරුවට කොළ එකතු කිරීම "
 
 #: SettingsResources.resx$TwainImpl_MemXfer$Message
 msgid "Alternative Transfer"
-msgstr ""
+msgstr "විකල්ප මාරුව "
 
 #: MiscResources.resx$PdfImportComponentNeeded$Message
 msgid "An additional component is needed to import this PDF file. Would you like to download it now?"
 msgstr ""
+"මෙම PDF ගොනුව ලබාගැනීමට අමතර උපාංගයක් අවශ්‍යය. එය දැන්ම බාගත කරන්න ඔබ කැමතිද?"
 
 #: MiscResources.resx$AutoSaveError$Message
 msgid "An error occurred when trying to auto save"
-msgstr ""
+msgstr "නිතැන් සුරැකීමට උත්සාහ කරද්දී දෝෂයක් පැනනැගිනි"
 
 #: MiscResources.resx$ErrorSaving$Message
 msgid "An error occurred when trying to save the file"
-msgstr ""
+msgstr "ගොනුව සුරැකීමට උත්සාහ කරද්දී දෝෂයක් පැනනැගිනි"
 
 #: MiscResources.resx$EmailError$Message
 msgid "An error occurred while trying to send an email"
-msgstr ""
+msgstr "විද්‍යුත් තැපැල් පණිවිඩයක් යැවීමට උත්සාහ කරද්දී දෝෂයක් පැනනැගිනි"
 
 #: MiscResources.resx$UnknownDriverError$Message
 msgid "An error occurred with the scanning driver"
-msgstr ""
+msgstr "පරිලෝකකයෙහි උපක්‍රම ධාවකයෙහි දෝෂයක් පැනනැගිනි"
 
 #: MiscResources.resx$BatchError$Message
 msgid "An unknown error ocurred during the batch scan"
-msgstr ""
+msgstr "කාණ්ඩ පරිලෝකනයේදී නාදුනන දෝෂයක් හටගැනින"
 
 #: MiscResources.resx$OcrUpdateAvailable$Message
 msgid "An update to OCR is available"
-msgstr ""
+msgstr "ප්‍රකාශ අක්ෂර කියවනය සඳහා යාවත්කාල කිරීමක් සුදානම්ව ඇත "
 
 #: FAdvancedScanSettings.resx$cbBrightnessContrastAfterScan.Text$Message
 msgid "Apply brightness/contrast after scan"
@@ -213,15 +216,15 @@ msgstr ""
 
 #: MiscResources.resx$ConfirmResetImages$Message
 msgid "Are you sure you want undo your changes to {0} image(s)?"
-msgstr ""
+msgstr "{0} චායාරූපයේ/රූපයන්ගේ සිදුකල වෙනස්කම් ඔබ නිසැකයෙන්ම අස්කර ගන්නවාද?"
 
 #: FEmailSettings.resx$label1.Text$Message
 msgid "Attachment Name"
-msgstr ""
+msgstr "ඇමුණුමෙහි නම "
 
 #: FPdfSettings.resx$label3.Text$Message
 msgid "Author"
-msgstr ""
+msgstr "රචකයා "
 
 #: FEditProfile.resx$linkAutoSaveSettings.Text$Message
 #: FAutoSaveSettings.resx$$this.Text$Message
