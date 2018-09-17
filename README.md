@@ -1,6 +1,6 @@
 naps2-pootle
 ============
 
-Localization files for [NAPS2](https://sourceforge.net/projects/naps2/).
+Localization files for [NAPS2](https://www.naps2.com).
 
-[Contribute](http://naps2.cylansoft.com/translate/)
+[Contribute](https://www.naps2.com/doc-translations.html)
