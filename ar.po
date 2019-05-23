@@ -132,21 +132,7 @@ msgstr "Interleave البديل"
 
 #: SettingsResources.resx$TwainImpl_MemXfer$Message
 msgid "Alternative Transfer"
-msgstr ""
-"\n"
-"The proposed system of electronic archiving and workflow a complete solution "
-"to automate all operations of the Directorate General for research and "
-"development, technical and archiving, such as orders, procurement, claims "
-"and review of documents and other system provides the fastest way for "
-"applications automate workflow developed, which is based on a database and "
-"Taatkta viability raise the performance and distribution of the burden on "
-"internal networks and external and the Internet without any programming or "
-"Macrohat or writing of the code where it uses the techniques com / dna from "
-"Microsoft as well as databases Mounhyat and interacting with child (client) "
-"has a high ability to browse and to achieve lower total cost of owning any "
-"solution of workflow solutions The solution must provide all the necessary "
-"tools to transform your operations to the smart application of the operation "
-"of working on Alanturntman without any programming.\n"
+msgstr "التحويل البديل"
 
 #: MiscResources.resx$PdfImportComponentNeeded$Message
 msgid ""
