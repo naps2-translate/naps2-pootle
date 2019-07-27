@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 20:27+0000\n"
-"PO-Revision-Date: 2019-05-01 21:31+0000\n"
+"PO-Revision-Date: 2019-07-10 15:22+0000\n"
 "Last-Translator: BennyBeat <bennybeat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1556746266.028508\n"
+"X-POOTLE-MTIME: 1562772164.136733\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
@@ -72,11 +72,11 @@ msgstr "S'estan obtenint les dades"
 
 #: FEditProfile.resx$btnAdvanced.Text$Message
 msgid "Advanced"
-msgstr ""
+msgstr "Avançat"
 
 #: FAdvancedScanSettings.resx$$this.Text$Message
 msgid "Advanced Profile Settings"
-msgstr ""
+msgstr "Configuració avançada del perfil"
 
 #: FDesktop.resx$tsEmailPDFAll.Text$Message
 #: FDesktop.resx$tsReverseAll.Text$Message
@@ -84,7 +84,7 @@ msgstr ""
 #: FDesktop.resx$tsSavePDFAll.Text$Message
 #: MiscResources.resx$AllCount$Message
 msgid "All ({0})"
-msgstr ""
+msgstr "Tot ({0})"
 
 #: MiscResources.resx$FileTypeAllFiles$Message
 msgid "All Files"
