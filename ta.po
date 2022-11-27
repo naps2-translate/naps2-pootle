@@ -3,67 +3,68 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 20:27+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-09-17 20:24+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1537215893.991031\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
-msgstr ""
+msgstr "100 dpi"
 
 #: SettingsResources.resx$Dpi_1200$Message
 msgid "1200 dpi"
-msgstr ""
+msgstr "1200 dpi"
 
 #: SettingsResources.resx$Dpi_150$Message
 msgid "150 dpi"
-msgstr ""
+msgstr "150 dpi"
 
 #: SettingsResources.resx$Dpi_200$Message
 msgid "200 dpi"
-msgstr ""
+msgstr "200 dpi"
 
 #: SettingsResources.resx$BitDepth_24Color$Message
 msgid "24-bit Color"
-msgstr ""
+msgstr "24-bit நிறம்"
 
 #: SettingsResources.resx$Dpi_300$Message
 msgid "300 dpi"
-msgstr ""
+msgstr "300 dpi"
 
 #: SettingsResources.resx$Dpi_400$Message
 msgid "400 dpi"
-msgstr ""
+msgstr "400 dpi"
 
 #: SettingsResources.resx$Dpi_600$Message
 msgid "600 dpi"
-msgstr ""
+msgstr "600 dpi"
 
 #: SettingsResources.resx$Dpi_800$Message
 msgid "800 dpi"
-msgstr ""
+msgstr "800 dpi"
 
 #: SettingsResources.resx$PageSize_A3$Message
 msgid "A3 (297x420 mm)"
-msgstr ""
+msgstr "A3 (297x420 மிமி)"
 
 #: SettingsResources.resx$PageSize_A4$Message
 msgid "A4 (210x297 mm)"
-msgstr ""
+msgstr "A4(210x297 மிமி)"
 
 #: SettingsResources.resx$PageSize_A5$Message
 msgid "A5 (148x210 mm)"
-msgstr ""
+msgstr "A5 (148x210 மிமி)"
 
 #: FDesktop.resx$tsAbout.Text$Message
 #: FAbout.resx$$this.Text$Message
 msgid "About"
-msgstr ""
+msgstr "மென்பொருள் பற்றி"
 
 #: FScanProgress.resx$$this.Text$Message
 msgid "Acquiring data"
@@ -87,7 +88,7 @@ msgstr ""
 
 #: MiscResources.resx$FileTypeAllFiles$Message
 msgid "All Files"
-msgstr ""
+msgstr "அனைத்து கோப்புகளும்"
 
 #: FPdfSettings.resx$clbPerms.Items6$Message
 msgid "Allow Annotations"

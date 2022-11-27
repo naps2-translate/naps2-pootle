@@ -3,14 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 20:27+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-09-17 20:24+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1537215875.552425\n"
 
 #: SettingsResources.resx$Dpi_100$Message
 msgid "100 dpi"
@@ -138,10 +139,12 @@ msgid ""
 "An additional component is needed to import this PDF file. Would you like to "
 "download it now?"
 msgstr ""
+"Komponen tambahan diperlukan untuk mengimpor berkas PDF. Apakah anda ingin "
+"mengunduhnya sekarang?"
 
 #: MiscResources.resx$UpdateError$Message
 msgid "An error occured when trying to install the update"
-msgstr ""
+msgstr "Galat terjadi ketika mencoba menginstall pembaruan"
 
 #: MiscResources.resx$AuthError$Message
 msgid "An error occurred when trying to authorize"
@@ -149,19 +152,19 @@ msgstr ""
 
 #: MiscResources.resx$AutoSaveError$Message
 msgid "An error occurred when trying to auto save"
-msgstr ""
+msgstr "Galat terjadi ketika mencoba menyimpan-otomatis."
 
 #: MiscResources.resx$ErrorSaving$Message
 msgid "An error occurred when trying to save the file"
-msgstr ""
+msgstr "Galat terjadi ketika mencoba menyimpan berkas"
 
 #: MiscResources.resx$ErrorEmailing$Message
 msgid "An error occurred when trying to send the email"
-msgstr ""
+msgstr "Galat terjadi ketika mencoba mengirim surel"
 
 #: MiscResources.resx$EmailError$Message
 msgid "An error occurred while trying to send an email"
-msgstr ""
+msgstr "Galat terjadi ketika mencoba mengirim surel"
 
 #: MiscResources.resx$UnknownDriverError$Message
 msgid "An error occurred with the scanning driver"
@@ -172,6 +175,7 @@ msgid ""
 "An operation is in progress. Are you sure you want to exit and cancel the "
 "operation?"
 msgstr ""
+"Sebuah operasi diproses. Anda yakin ingin keluar dan membatalkan operasi?"
 
 #: MiscResources.resx$BatchError$Message
 msgid "An unknown error ocurred during the batch scan"
@@ -179,19 +183,19 @@ msgstr ""
 
 #: MiscResources.resx$UpdateAvailable$Message
 msgid "An update is available"
-msgstr ""
+msgstr "Pembaruan tersedia"
 
 #: MiscResources.resx$OcrUpdateAvailable$Message
 msgid "An update to OCR is available"
-msgstr ""
+msgstr "Pembaruan OCR tersedia"
 
 #: FAdvancedScanSettings.resx$cbBrightnessContrastAfterScan.Text$Message
 msgid "Apply brightness/contrast after scan"
-msgstr ""
+msgstr "Terapkan pencerahan/kontras setelah memindai"
 
 #: ImageForm.resx$checkboxApplyToSelected.Text$Message
 msgid "Apply to all {0} selected images"
-msgstr ""
+msgstr "Terapkan ke {0} gambar terpilih"
 
 #: MiscResources.resx$ConfirmCancelBatch$Message
 msgid "Are you sure you want to cancel the batch scan?"
@@ -199,76 +203,76 @@ msgstr ""
 
 #: MiscResources.resx$ConfirmClearItems$Message
 msgid "Are you sure you want to clear {0} item(s)?"
-msgstr ""
+msgstr "Anda yakin ingin membersihkan {0} butir?"
 
 #: MiscResources.resx$ConfirmDelete$Message
 msgid "Are you sure you want to delete \"{0}\"?"
-msgstr ""
+msgstr "Anda yakin ingin menghapus \"{0}\"?"
 
 #: MiscResources.resx$ConfirmDeleteSingleProfile$Message
 msgid "Are you sure you want to delete the profile {0}?"
-msgstr ""
+msgstr "Anda yakin ingin menghapus profil {0}?"
 
 #: MiscResources.resx$ConfirmDeleteItems$Message
 msgid "Are you sure you want to delete {0} item(s)?"
-msgstr ""
+msgstr "Anda yakin ingin menghapus {0} butir?"
 
 #: MiscResources.resx$ConfirmDeleteMultipleProfiles$Message
 msgid "Are you sure you want to delete {0} profiles?"
-msgstr ""
+msgstr "Anda yakin ingin menghapus {0} profil?"
 
 #: MiscResources.resx$ConfirmResetImages$Message
 msgid "Are you sure you want undo your changes to {0} image(s)?"
-msgstr ""
+msgstr "Anda yakin ingin mengurungkan perubahan pada {0} gambar?"
 
 #: FEmailSettings.resx$label1.Text$Message
 msgid "Attachment Name"
-msgstr ""
+msgstr "Nama lampiran"
 
 #: FPdfSettings.resx$label3.Text$Message
 msgid "Author"
-msgstr ""
+msgstr "Pembuat"
 
 #: FAuthorize.resx$$this.Text$Message
 msgid "Authorize"
-msgstr ""
+msgstr "Berikan Otorisasi"
 
 #: SettingsResources.resx$TiffComp_Auto$Message
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 #: FAutoSaveSettings.resx$$this.Text$Message
 #: FEditProfile.resx$linkAutoSaveSettings.Text$Message
 msgid "Auto Save Settings"
-msgstr ""
+msgstr "Pengaturan Simpan-Otomatis"
 
 #: FPlaceholders.resx$label13.Text$Message
 msgid "Auto-incrementing number (1 digit)"
-msgstr ""
+msgstr "Otomatis menambahkan nomor (1 digit)"
 
 #: FPlaceholders.resx$label12.Text$Message
 msgid "Auto-incrementing number (2 digits)"
-msgstr ""
+msgstr "Otomatis menambahkan nomor (2 digit)"
 
 #: FPlaceholders.resx$label11.Text$Message
 msgid "Auto-incrementing number (3 digits)"
-msgstr ""
+msgstr "Otomatis menambahkan nomor (2 digit)"
 
 #: FPlaceholders.resx$label10.Text$Message
 msgid "Auto-incrementing number (4 digits)"
-msgstr ""
+msgstr "Otomatis menambahkan nomor (4 digit)"
 
 #: FOcrSetup.resx$checkBoxRunInBG.Text$Message
 msgid "Automatically run OCR after scanning"
-msgstr ""
+msgstr "Jalankan OCR otomatis setelah memindai"
 
 #: SettingsResources.resx$PageSize_B4$Message
 msgid "B4 (250x353 mm)"
-msgstr ""
+msgstr "B4 (250x353 mm)"
 
 #: SettingsResources.resx$PageSize_B5$Message
 msgid "B5 (176x250 mm)"
-msgstr ""
+msgstr "B5 (176x250 mm)"
 
 #: FBatchScan.resx$$this.Text$Message
 #: FDesktop.resx$tsBatchScan.Text$Message
@@ -289,39 +293,39 @@ msgstr ""
 
 #: FEditProfile.resx$label3.Text$Message
 msgid "Bit depth"
-msgstr ""
+msgstr "Kedalaman bit"
 
 #: MiscResources.resx$FileTypeBmp$Message
 msgid "Bitmap Files (*.bmp)"
-msgstr ""
+msgstr "Berkas bitmap (*.bmp)"
 
 #: SettingsResources.resx$BitDepth_1BlackAndWhite$Message
 msgid "Black & White"
-msgstr ""
+msgstr "Hitam Putih"
 
 #: FBlackWhite.resx$$this.Text$Message
 #: FDesktop.resx$tsBlackWhite.Text$Message
 #: FViewer.resx$tsBlackWhite.Text$Message
 msgid "Black and White"
-msgstr ""
+msgstr "Hitam dan Putih"
 
 #: FAdvancedScanSettings.resx$groupBox3.Text$Message
 msgid "Blank Pages"
-msgstr ""
+msgstr "Halaman kosong"
 
 #: FEditProfile.resx$label6.Text$Message
 msgid "Brightness"
-msgstr ""
+msgstr "Kecerahan"
 
 #: FBrightnessContrast.resx$$this.Text$Message
 #: FDesktop.resx$tsBrightnessContrast.Text$Message
 #: FViewer.resx$tsBrightnessContrast.Text$Message
 msgid "Brightness / Contrast"
-msgstr ""
+msgstr "Kecerahan / Kontras"
 
 #: SettingsResources.resx$TiffComp_Ccitt4$Message
 msgid "CCITT4"
-msgstr ""
+msgstr "CCITT4"
 
 #: FAdvancedScanSettings.resx$btnCancel.Text$Message
 #: FAuthorize.resx$btnCancel.Text$Message
@@ -344,7 +348,7 @@ msgstr ""
 #: MiscResources.resx$Cancel$Message
 #: OperationProgressNotifyWidget.resx$cancelToolStripMenuItem.Text$Message
 msgid "Cancel"
-msgstr ""
+msgstr "Batalkan"
 
 #: MiscResources.resx$CancelBatch$Message
 msgid "Cancel Batch"
@@ -352,40 +356,40 @@ msgstr ""
 
 #: MiscResources.resx$BatchStatusCancelling$Message
 msgid "Cancelling"
-msgstr ""
+msgstr "Membatalkan"
 
 #: SettingsResources.resx$HorizontalAlign_Center$Message
 msgid "Center"
-msgstr ""
+msgstr "Rata tegah"
 
 #: FEmailSettings.resx$btnChangeProvider.Text$Message
 msgid "Change"
-msgstr ""
+msgstr "Ubah"
 
 #: FAbout.resx$cbCheckForUpdates.Text$Message
 msgid "Check for updates"
-msgstr ""
+msgstr "Cek pembaruan"
 
 #: MiscResources.resx$CheckingForUpdates$Message
 msgid "Checking"
-msgstr ""
+msgstr "Memeriksa..."
 
 #: FEmailProvider.resx$$this.Text$Message
 msgid "Choose Email Provider"
-msgstr ""
+msgstr "Pilih penyedia surel"
 
 #: MiscResources.resx$ChooseProfile$Message
 msgid "Choose Profile"
-msgstr ""
+msgstr "Pilih Profil"
 
 #: FEditProfile.resx$btnChooseDevice.Text$Message
 msgid "Choose device"
-msgstr ""
+msgstr "Pilih Perangkat"
 
 #: FDesktop.resx$tsClear.Text$Message
 #: MiscResources.resx$Clear$Message
 msgid "Clear"
-msgstr ""
+msgstr "Bersihkan"
 
 #: FAutoSaveSettings.resx$cbClearAfterSave.Text$Message
 msgid "Clear images after saving"
